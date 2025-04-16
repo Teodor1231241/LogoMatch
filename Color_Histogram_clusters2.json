@@ -1,0 +1,6798 @@
+[
+  {
+    "specs": {
+      "average_color": "#918894",
+      "dominant_colors": [
+        "#34343c",
+        "#fcfcfc",
+        "#f4f4f4"
+      ],
+      "size_info": "292x292"
+    },
+    "files": [
+      "logos/bakertilly_bg.png",
+      "logos/bakertilly_com_cy.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#277cbe",
+      "dominant_colors": [
+        "#1c74d4",
+        "#0c64bc",
+        "#348ce4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/mondialparebrise_re.jpeg",
+      "logos/cdlcampina_org_br.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8995ae",
+      "dominant_colors": [
+        "#a4acb4",
+        "#acb4bc",
+        "#dcdcdc"
+      ],
+      "size_info": "1080x1350"
+    },
+    "files": [
+      "logos/pilotpen_co_uk.jpeg",
+      "logos/pilotpen_ro.jpeg",
+      "logos/pilotpen_hu.jpeg",
+      "logos/pilotpen_it.jpeg",
+      "logos/pilotpen_eu.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ac8083",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#040404",
+        "#f4fcfc"
+      ],
+      "size_info": "Varies (258 different sizes)"
+    },
+    "files": [
+      "logos/ajas_cz.jpeg",
+      "logos/lindt_dk.png",
+      "logos/aamco-councilbluffs_com.png",
+      "logos/meggle_it.png",
+      "logos/forpsi_pl.png",
+      "logos/aamco-corpuschristi_com.png",
+      "logos/mazda-wroclaw-wrobel_pl.png",
+      "logos/reedglobal_pl.png",
+      "logos/ecochillers_net.png",
+      "logos/medef-seine-estuaire_fr.png",
+      "logos/medef-essonne_org.png",
+      "logos/toyotaakkoyunlu_com_tr.png",
+      "logos/kia-daehn-goeritz_de.jpeg",
+      "logos/ymcasf_org.png",
+      "logos/greatplacetowork_fr.png",
+      "logos/overheaddoorriverton_com.png",
+      "logos/greatplacetowork_cn.png",
+      "logos/isuzu_net_my.png",
+      "logos/shopee_in.png",
+      "logos/actemium_id.png",
+      "logos/actemium_it.png",
+      "logos/mercyships_nl.png",
+      "logos/bosch-homecomfort_com.png",
+      "logos/malerasstockholm_se.png",
+      "logos/edenred_es.png",
+      "logos/carter-benson_com.png",
+      "logos/kia-bandung_com.png",
+      "logos/promstahl_de.png",
+      "logos/rotaryclubdelima_org.png",
+      "logos/subaru_com_tr.png",
+      "logos/daikin-ksa_com.jpeg",
+      "logos/poliform-spb_ru.png",
+      "logos/aamcoelpaso-east_com.jpg",
+      "logos/carglass_rs.jpeg",
+      "logos/aamcocollegestationtx_com.jpg",
+      "logos/husse_hu.png",
+      "logos/zalando_ee.png",
+      "logos/remaxcrystal_com.jpeg",
+      "logos/kia-kroppen-herten_de.jpeg",
+      "logos/allianz_nl.png",
+      "logos/pmsgen_com.jpeg",
+      "logos/spitexlueg_ch.png",
+      "logos/wurth_nl.jpeg",
+      "logos/job-impulse_pt.png",
+      "logos/kia-hoff-trier_de.jpeg",
+      "logos/bakertilly_fr.png",
+      "logos/mazda_co_za.png",
+      "logos/lindt_fi.png",
+      "logos/allianz-handwerker_de.png",
+      "logos/avia-belgomine_be.png",
+      "logos/amway_at.png",
+      "logos/aamco-bellevue_com.png",
+      "logos/mazda_si.png",
+      "logos/bauder_lt.png",
+      "logos/kia-christ-ansbach_de.jpeg",
+      "logos/minisoindia_com.png",
+      "logos/siiora_org.jpeg",
+      "logos/jll_com_lk.png",
+      "logos/linde-gas_nl.png",
+      "logos/intersport-arc1950_com.jpeg",
+      "logos/aiesecargentina_org.png",
+      "logos/howdenoze_pl.jpeg",
+      "logos/salvationarmy_org_uk.png",
+      "logos/aamcoreno_com.png",
+      "logos/portadoors_com.png",
+      "logos/honda_com_hk.png",
+      "logos/toyotaoztoprakhatay_com_tr.png",
+      "logos/honda_cl.png",
+      "logos/altenusa_com.png",
+      "logos/kuestarubber_com.png",
+      "logos/orange_md.png",
+      "logos/fitness4homesuperstore_com.png",
+      "logos/wuerthmarket_ru.png",
+      "logos/aiesec_my.png",
+      "logos/orbico-kenoanyagok_hu.jpeg",
+      "logos/kia-trinkle-schorndorf_de.jpeg",
+      "logos/zkteco_co_za.png",
+      "logos/toyotayigitvar_com_tr.png",
+      "logos/toyotatoyan_com_tr.png",
+      "logos/medef-alsace_com.png",
+      "logos/siebtechnik-tema_co_uk.png",
+      "logos/alosindustrials_com.jpeg",
+      "logos/nordicpharma_fr.png",
+      "logos/duracell-me_com.png",
+      "logos/worldvision_org_nz.png",
+      "logos/vkf-renzel_cz.png",
+      "logos/medef-44_fr.png",
+      "logos/fortprousa_com.png",
+      "logos/toysrus_com_bn.jpeg",
+      "logos/nordicpharma_it.png",
+      "logos/allianz_lu.png",
+      "logos/edenredrewards_co_in.png",
+      "logos/toyotasanpablo_com_ph.png",
+      "logos/dfsk_tn.png",
+      "logos/wedos_com.jpeg",
+      "logos/sofrecogroup_com.png",
+      "logos/veka_hu.jpeg",
+      "logos/anadolumedicalcenter_al.png",
+      "logos/rheine_schule.jpeg",
+      "logos/toyotacetas_com_tr.png",
+      "logos/kia-diamant-wiesbaden_de.jpeg",
+      "logos/pingusenglish_ee.jpeg",
+      "logos/bbraun_ru.webp",
+      "logos/julis-bayern_de.png",
+      "logos/bbraun_cz.jpeg",
+      "logos/aireserv_ca.png",
+      "logos/cinnabon-ksa_com.png",
+      "logos/fleishmanhillard_cz.png",
+      "logos/isover_ua.png",
+      "logos/aamcoconwaysc_com.png",
+      "logos/actemium_sk.png",
+      "logos/manpowergroup_no.png",
+      "logos/decathlonkz_com.png",
+      "logos/mffshopen_se.png",
+      "logos/implantcenter-dentistry_co_uk.png",
+      "logos/aamco-omahanorth_com.png",
+      "logos/ophitusa_com.jpeg",
+      "logos/pearsonclinical_fr.png",
+      "logos/brother-industrial_com.png",
+      "logos/toyotaelpa_com_tr.png",
+      "logos/wwf_at.jpeg",
+      "logos/reedglobal_ae.png",
+      "logos/topdoctors_cl.png",
+      "logos/rotary_no.png",
+      "logos/leroymerlin_co_za.png",
+      "logos/infiniti-bahrain_com.png",
+      "logos/inductothermgroup_jp.png",
+      "logos/nordicpharma_es.png",
+      "logos/spie-ics_com.png",
+      "logos/experian_com_sg.png",
+      "logos/secureparkingusa_com.png",
+      "logos/experian_com_hk.png",
+      "logos/medef-ain_fr.png",
+      "logos/medef31_fr.png",
+      "logos/ikea_com_tr.png",
+      "logos/toyotatokullar_com_tr.png",
+      "logos/urmet_com_br.jpeg",
+      "logos/whatsonsaudiarabia_com.jpeg",
+      "logos/duraclean_us.png",
+      "logos/cvjm-nuembrecht_de.png",
+      "logos/gulfcombustibles_com.png",
+      "logos/toyotamici_com_tr.png",
+      "logos/aontravpro_com.png",
+      "logos/shopee_vn.png",
+      "logos/tectake_it.png",
+      "logos/actemium_se.png",
+      "logos/ibc-solar_it.png",
+      "logos/durableonline_com_sg.jpeg",
+      "logos/bonprix_ch.png",
+      "logos/kia-moeller-eisenach_de.jpeg",
+      "logos/engie_com_au.png",
+      "logos/mazda-warszawa-nivette_pl.png",
+      "logos/kia-ds-lampertheim_de.jpeg",
+      "logos/sanlorenzo_com_pe.jpeg",
+      "logos/crocssa_co_za.jpeg",
+      "logos/renaultbank_es.png",
+      "logos/foxinabox_mx.png",
+      "logos/gs1hr_org.jpeg",
+      "logos/kumonshuppan_com.jpeg",
+      "logos/despat_com.png",
+      "logos/kawasaki-magdeburg_de.png",
+      "logos/minisocr_com.png",
+      "logos/mazda_com_ec.png",
+      "logos/msd-animal-health_co_uk.png",
+      "logos/kia-guadeloupe_com.png",
+      "logos/zkteco_in.png",
+      "logos/dolcevita_ca.png",
+      "logos/fleishmanhillard_com_br.png",
+      "logos/toyotakuzen_com_tr.png",
+      "logos/greatplacetowork_co_ke.png",
+      "logos/elderhouseadc_com.jpeg",
+      "logos/mazda-tarnowskiegory-mirai_pl.png",
+      "logos/fleishmanhillard_co_th.png",
+      "logos/starkeypro_de.png",
+      "logos/xtransfer_cn.png",
+      "logos/esseskincare_nl.png",
+      "logos/amway_it.png",
+      "logos/culligandesmoines_com.png",
+      "logos/bakertilly_ke.jpeg",
+      "logos/julis-nuernberg_de.png",
+      "logos/katyawilliamsbridal_com.png",
+      "logos/toyotaefe_com_tr.png",
+      "logos/zalando_ch.png",
+      "logos/mercyships_de.jpeg",
+      "logos/advocarenewbornnetwork_com.jpg",
+      "logos/niproaustralia_com_au.png",
+      "logos/job-impulse_es.png",
+      "logos/mazda-warszawa-auto2000_pl.png",
+      "logos/icafalinmobiliaria_cl.png",
+      "logos/bonprix_nl.png",
+      "logos/mapfre_com_uy.png",
+      "logos/papajohns_ma.png",
+      "logos/salvationarmyconcordca_org.png",
+      "logos/mazda_nl.png",
+      "logos/kia-gj-remagen-rolandseck_de.jpeg",
+      "logos/santillana_com_pr.png",
+      "logos/kawasaki-seufert_de.png",
+      "logos/mtn_ci.jpeg",
+      "logos/nissanmanufacturing_com.png",
+      "logos/lueck-gruppe_de.png",
+      "logos/trakm8_cz.png",
+      "logos/wurth_fi.png",
+      "logos/trijit_uk.png",
+      "logos/titancontainers_ie.jpg",
+      "logos/kia-telke-badschlema_de.jpeg",
+      "logos/kia-car-center-wismar_de.jpeg",
+      "logos/medef-corse_com.png",
+      "logos/acetoolonline_com.jpeg",
+      "logos/toyotanatas_com_tr.png",
+      "logos/equans_lu.png",
+      "logos/thebodyshop_lv.png",
+      "logos/aamcofuquayvarinanc_com.png",
+      "logos/powerint_cn.png",
+      "logos/metlife_com_ar.jpeg",
+      "logos/gulf_no.png",
+      "logos/bauder_nl.png",
+      "logos/sitech-ohio_com.png",
+      "logos/hertz_com_cy.jpeg",
+      "logos/grantthornton_ci.png",
+      "logos/toyotasarar_com_tr.png",
+      "logos/mercyships_fr.png",
+      "logos/mtn_ng.png",
+      "logos/toyotaaktoy_com_tr.png",
+      "logos/toyota-indus_com.png",
+      "logos/wurth_kz.png",
+      "logos/zalando_dk.png",
+      "logos/kia-moeller-wunstorf_de.jpeg",
+      "logos/greatplacetowork_com_bo.png",
+      "logos/kia-h-p-schiffweiler_de.jpeg",
+      "logos/nikon_co_th.png",
+      "logos/tupperware_nl.png",
+      "logos/kia-bachmann-wehretal_de.jpeg",
+      "logos/solatubegalicia_com.png",
+      "logos/amway_ca.png",
+      "logos/albatroslogistic_ma.png",
+      "logos/kia-vogt-finningen_de.jpeg",
+      "logos/carglass_cz.png",
+      "logos/aamcolasvegas_com.png",
+      "logos/isover_com_br.png",
+      "logos/misterwhat-au_com.png",
+      "logos/pussyspace_net.jpeg",
+      "logos/msd-animal-health_pt.png",
+      "logos/santillana_com_bo.png",
+      "logos/rsm_bh.png",
+      "logos/amway_ch.png",
+      "logos/mazda-warszawa-odyssey_pl.png",
+      "logos/allbranded_de.png",
+      "logos/cyrillus_com.png",
+      "logos/kiaspringfield_co_za.jpeg",
+      "logos/kia-exner_de.png",
+      "logos/gracehomes_us.png",
+      "logos/toyotaotojen_com_tr.png",
+      "logos/kia-suedmobile-radolfzell_de.jpeg",
+      "logos/thisissowgood_com.png",
+      "logos/bosch-industry-consulting_com.jpeg",
+      "logos/titancontainers_co_nz.jpg",
+      "logos/minisouruguay_com_uy.png",
+      "logos/spitex-flawil-degersheim_ch.png",
+      "logos/kia-sauter-albstadt_de.jpeg",
+      "logos/spg-motoren_de.png",
+      "logos/amway_fr.png",
+      "logos/toyotaploiesti_ro.png",
+      "logos/wurth_cl.png",
+      "logos/adra_fr.png",
+      "logos/actemium_ca.png",
+      "logos/kia-penning-zetelneuenburg_de.jpeg",
+      "logos/actemium_at.png",
+      "logos/trinkgutlippstadt_de.jpeg",
+      "logos/sitech_ch.png",
+      "logos/wurth_lk.png",
+      "logos/enterprise_si.jpeg",
+      "logos/medef-aude_com.png",
+      "logos/jll_nz.png",
+      "logos/reedglobal_sg.png",
+      "logos/mazda-wroclaw-jaremko_pl.png",
+      "logos/pkfkerikeri_co_nz.png",
+      "logos/culligandenkerwaterconditioning_com.webp",
+      "logos/lindt_es.png",
+      "logos/uxbistart_com.png",
+      "logos/bonprix_fi.png",
+      "logos/mazda-sosnowiec-mirai_pl.png",
+      "logos/nikonclub_fr.jpeg",
+      "logos/allianzlifebali_com.png",
+      "logos/toyotahizel_com_tr.png",
+      "logos/bauwerk-group_hr.png",
+      "logos/entergy-louisiana_com.png",
+      "logos/kia-ebner-baienfurt_de.jpeg",
+      "logos/demetercs_eu.png",
+      "logos/lindt_se.png",
+      "logos/kilewswest_com.png",
+      "logos/inductotherm_co_kr.png",
+      "logos/cdlvideira_com_br.webp",
+      "logos/remax-emblema_com_ar.png",
+      "logos/daikintexastechnologypark_com.png",
+      "logos/seitenbachershop_com.png",
+      "logos/zalando_co_uk.png",
+      "logos/job-impulse_co_jp.jpeg",
+      "logos/ibc-solar_pl.png",
+      "logos/mazda-warszawa-bemomotors_pl.png",
+      "logos/bauder_fr.png",
+      "logos/medef41_fr.png",
+      "logos/nelsonlabsbozeman_com.png",
+      "logos/toyotaaykon_com_tr.png",
+      "logos/modshair-nuernberg_de.png",
+      "logos/nordicpharma_be.png",
+      "logos/spie_lu.png",
+      "logos/statkraft_com_br.png",
+      "logos/thelocal_es.png",
+      "logos/linde_bo.png",
+      "logos/greatplacetowork_com_py.png",
+      "logos/statkraft_com_tr.png",
+      "logos/rationalstock_es.jpeg",
+      "logos/santillana_com_sv.webp",
+      "logos/toyota_co_tz.png",
+      "logos/toyotaderinderekocak_com_tr.png",
+      "logos/msd-animal-health_it.png",
+      "logos/kia-engbert-datteln_de.jpeg",
+      "logos/mazda-rzeszow-czach_pl.png",
+      "logos/greatplacetowork_co_il.png",
+      "logos/msmode_de.png",
+      "logos/desjoyaux_co_uk.png",
+      "logos/algordanza_com_au.jpeg",
+      "logos/synlab_com_ng.png",
+      "logos/bigfootdigital_co_uk.jpeg",
+      "logos/thelocal_ch.png",
+      "logos/habitatbroward_org.png",
+      "logos/truemoney_com_vn.png",
+      "logos/kia-settele-neu-ulm_de.jpeg",
+      "logos/fleishmanhillard_mx.png",
+      "logos/gulfoilchina_com.png",
+      "logos/aamcowintervillenc_com.png",
+      "logos/kia-dresen-neuss_de.jpeg",
+      "logos/carlsjr_com_tr.png",
+      "logos/scte-prod_herokuapp_com.png",
+      "logos/manpowergroup_pt.png",
+      "logos/amnesty_hu.jpeg",
+      "logos/shopee_com_my.png",
+      "logos/thelocal_fr.png",
+      "logos/wuerth_dk.png",
+      "logos/ibc-solar_cz.png",
+      "logos/kiaonline_dk.png",
+      "logos/wuerth_com_hr.png",
+      "logos/processcommunicationmodel_sk.png",
+      "logos/allianzpp_com.png",
+      "logos/zkteco_vn.png",
+      "logos/actemium_de.png",
+      "logos/foxinaboxzutphen_com.png",
+      "logos/vkf-renzel_bg.png",
+      "logos/mazda-poznan-voyager_pl.png",
+      "logos/muvpropiedades_com_ar.png",
+      "logos/actemium_com_br.png",
+      "logos/eresrelocation_es.png",
+      "logos/infiniti_mx.png",
+      "logos/repsol_in_ua.png",
+      "logos/adra_se.jpeg",
+      "logos/misterwhat_nl.png",
+      "logos/grantthornton_com_pa.png",
+      "logos/wurth_sk.png",
+      "logos/goliathgames_com.png",
+      "logos/medef-paysdelaloire_fr.png",
+      "logos/kia_com_uy.png",
+      "logos/medef-aura_fr.png",
+      "logos/coffeesmith_com_sg.jpeg",
+      "logos/notairespirletboinet_be.png",
+      "logos/repsolsolgas_com.png",
+      "logos/bauder_rs.png",
+      "logos/toyotabucurestinord_ro.png",
+      "logos/genan_com.png",
+      "logos/ibc-solar_es.png",
+      "logos/glamsmile_be.png",
+      "logos/aamcodallastx_com.png",
+      "logos/fainvestors_com.png",
+      "logos/pepsico_ru.png",
+      "logos/thelocal_it.png",
+      "logos/kia-bender-coburg_de.jpeg",
+      "logos/kia-asc_ru.jpeg",
+      "logos/patheon_kr.png",
+      "logos/fmlogistic_es.png",
+      "logos/nutricia_pt.png",
+      "logos/worldvision_org_sv.jpeg",
+      "logos/worldvision_al.webp",
+      "logos/zalando_no.png",
+      "logos/keytitlegroupsa_com.jpeg",
+      "logos/mazda-lodz-matsuoka_pl.png",
+      "logos/takeda_nl.png",
+      "logos/experianidworks_com.png",
+      "logos/avia_nl.png",
+      "logos/svnvanguardla_com.png",
+      "logos/vkf-renzel_hu.png",
+      "logos/linexofjoliet_com.png",
+      "logos/job-impulse_us.png",
+      "logos/bauder_ag.png",
+      "logos/bosch-homecomfortgroup_com.png",
+      "logos/alchemia-nova_net.jpeg",
+      "logos/aamcowsa_com.png",
+      "logos/worldoptionsgh_com_au.png",
+      "logos/actemium_com.png",
+      "logos/metagenics_co_jp.png",
+      "logos/medef-bearnetsoule_com.png",
+      "logos/benu_lv.jpeg",
+      "logos/toyotayoruk_com_tr.png",
+      "logos/kia-autoprodix_ru.jpeg",
+      "logos/bcurelaser_com.png",
+      "logos/eurofinsfoodtesting_nl.png",
+      "logos/experian_co_nz.png",
+      "logos/kia-chita_ru.jpeg",
+      "logos/laborelec_com.png",
+      "logos/greatplacetowork_se.png",
+      "logos/reedglobal_cz.png",
+      "logos/toyotagoktepe_com_tr.png",
+      "logos/zkteco_com_bd.png",
+      "logos/toyotaborovali_com_tr.png",
+      "logos/mapfre_com_ve.png",
+      "logos/miniso-home_ro.png",
+      "logos/wuerth-gruppe_ch.png",
+      "logos/savethechildren_es.png",
+      "logos/ibc-solar_nl.png",
+      "logos/medef-anjou_fr.png",
+      "logos/entergy-nuclear_com.png",
+      "logos/rcchurch_com.jpeg",
+      "logos/papajohnsquebec_ca.png",
+      "logos/bakertillymlt_se.png",
+      "logos/inductotherm-group-france_fr.png",
+      "logos/medef-dromeardeche_fr.png",
+      "logos/bonprix-fl_be.png",
+      "logos/bbraun_fi.jpeg",
+      "logos/cvjm-dettingen_de.png",
+      "logos/ptsv-hof-minigolf_de.png",
+      "logos/nordicpharma_co_uk.png",
+      "logos/kia-lange-gosen_de.jpeg",
+      "logos/avisng_com.jpeg",
+      "logos/eurofinsfoodtesting_com.png",
+      "logos/thebodyshop_si.png",
+      "logos/aamconsa_com.png",
+      "logos/gjw-bb_de.jpeg",
+      "logos/medefloire_fr.png",
+      "logos/childrenandteendentalfl_com.png",
+      "logos/filterteknik_dk.png",
+      "logos/santillana_com_hn.webp",
+      "logos/renaulttersa_com_mx.png",
+      "logos/inductotherm_com_tr.png",
+      "logos/julis-stuttgart_de.png",
+      "logos/kia-ci_com.jpeg",
+      "logos/anderson-negele-gmbh_ru.png",
+      "logos/hertz_yt.png",
+      "logos/takeda_com_ru.png",
+      "logos/pkf_co_in.png",
+      "logos/shopee_com_co.png",
+      "logos/linde_pe.png",
+      "logos/mitsubishielectric_cz.png",
+      "logos/bauder_at.png",
+      "logos/trisa_bg.png",
+      "logos/medknow_com.jpeg",
+      "logos/newson-gale_co_uk.jpeg",
+      "logos/toyotaparmaksizlar_com_tr.png",
+      "logos/lindt_cz.png",
+      "logos/aeccglobal_vn.png",
+      "logos/toysrus_com_my.jpeg",
+      "logos/renault-beaulieu_fr.png",
+      "logos/ebay_pl.png",
+      "logos/reedglobal_bg.png",
+      "logos/avis_com_do.png",
+      "logos/toyotaboranlar_com_tr.png",
+      "logos/pearsonclinical_es.png",
+      "logos/eurofins_at.png",
+      "logos/lvs-oxford_org_uk.png",
+      "logos/remax-pinneberg_de.png",
+      "logos/budget_com_do.png",
+      "logos/wuerth-ag_ch.png",
+      "logos/experianacademy_com.png",
+      "logos/esseskincare_se.png",
+      "logos/lindt_com_au.png",
+      "logos/gjw-nd_de.jpeg",
+      "logos/worldvisionmexico_org_mx.png",
+      "logos/aamco-newbraunfels_com.png",
+      "logos/medef79_fr.png",
+      "logos/greatplacetowork_com_tr.png",
+      "logos/vkf-renzel_co_uk.png",
+      "logos/bosch-climate_com_tr.png",
+      "logos/remax-lueneburg_de.png",
+      "logos/equans_cl.png",
+      "logos/thebodyshop_lt.png",
+      "logos/greatplacetowork_com_ar.png",
+      "logos/bbraun_ec.png",
+      "logos/wurth_com_vn.png",
+      "logos/bonprix_se.png",
+      "logos/mercyships_se.jpeg",
+      "logos/allianz_sg.png",
+      "logos/carlsjr_com_mx.png",
+      "logos/msmode_es.png",
+      "logos/entergy-neworleans_com.png",
+      "logos/worldvision_co.jpeg",
+      "logos/greatplacetowork_com_pe.png",
+      "logos/kawasaki-center-koeln_de.png",
+      "logos/toyotasud_ro.png",
+      "logos/ekartlogistics_in.png",
+      "logos/zalando_pl.png",
+      "logos/medef71_com.png",
+      "logos/takab_nu.png",
+      "logos/bakertilly_ec.jpeg",
+      "logos/allianz_is.png",
+      "logos/aamcowarrenmi_com.png",
+      "logos/kia-gorny-eislingen_de.jpeg",
+      "logos/jetfriorefrigeracao_com_br.png",
+      "logos/bcurelaser_co_il.png",
+      "logos/fimacf_africa.jpeg",
+      "logos/wwf_es.jpeg",
+      "logos/inductotherm_com_cn.png",
+      "logos/vectorinfotech_my.png",
+      "logos/habitatcoosavalley_org.jpeg",
+      "logos/ardex_com_tw.png",
+      "logos/actemium_co_uk.png",
+      "logos/hertz-autopujcovna_cz.png",
+      "logos/julis-sh_de.png",
+      "logos/rocatiles_com.png",
+      "logos/gjw-nrw_de.jpeg",
+      "logos/toolstationjobs_be.png",
+      "logos/techtel_com_sg.png",
+      "logos/julis-bremen_de.jpeg",
+      "logos/mediqdirekt_hu.png",
+      "logos/wolterskluwer_com_my.png",
+      "logos/tbwa-entelia_com.png",
+      "logos/kia-ahs-roehrnbach_de.jpeg",
+      "logos/berlitznouvelleaquitaine_fr.png",
+      "logos/virtual-reality_school.png",
+      "logos/intersport_nl.png",
+      "logos/reedglobal_ch.png",
+      "logos/subaru_jp.webp",
+      "logos/cvjm-hemer_de.png",
+      "logos/kia-burian-celle_de.jpeg",
+      "logos/gjw-sachsen_de.jpeg",
+      "logos/ibc-solar_co_za.png",
+      "logos/tupperware_co_kr.png",
+      "logos/amway_de.png",
+      "logos/adra_org_pe.png",
+      "logos/greatplacetowork_com_ve.png",
+      "logos/cdlniteroi_com_br.png",
+      "logos/renaultsprings_co_za.png",
+      "logos/allianz_lt.png",
+      "logos/kawasaki-herzog_de.png",
+      "logos/grantthornton_az.png",
+      "logos/aiesec_org_rs.png",
+      "logos/hondatygerberg_co_za.png",
+      "logos/spiegse_com.png",
+      "logos/medef-cote-opale_com.png",
+      "logos/gulf_com_mk.png",
+      "logos/wurth_ae.png",
+      "logos/servier_vn.png",
+      "logos/allianz-rose_info.jpeg",
+      "logos/infiniti_com_do.png",
+      "logos/mazda_hu.png",
+      "logos/bauder_be.png",
+      "logos/kentmaster_nz.jpeg",
+      "logos/cfmotoperu_com.png",
+      "logos/experian_co_uk.png",
+      "logos/aamcogastonianc_com.png",
+      "logos/bestdrive_pl.png",
+      "logos/rotarypublicschool_org.png",
+      "logos/job-impulse_sk.png",
+      "logos/experian_in.png",
+      "logos/pearson_com_hk.jpeg",
+      "logos/toyotamezcar_com_tr.png",
+      "logos/edenred_com_uy.jpeg",
+      "logos/storisell_com.jpeg",
+      "logos/titancontainers_us.jpg",
+      "logos/spie_be.png",
+      "logos/leekeswindows_co_uk.jpeg",
+      "logos/jll_fi.png",
+      "logos/aiesecaustralia_org.png",
+      "logos/equans_co.png",
+      "logos/sompo-intl_com.png",
+      "logos/foxinaboxgoldcoast_com.png",
+      "logos/ardex_at.png",
+      "logos/toolstationjobs_nl.png",
+      "logos/amnesty_id.jpeg",
+      "logos/carlsjr_co_nz.png",
+      "logos/ebayglobalshipping_com.png",
+      "logos/mapfre_pr.png",
+      "logos/infiniti-azerbaijan_com.png",
+      "logos/zktecoma_com.png",
+      "logos/entergy-texas_com.png",
+      "logos/cfmotoitaly_it.png",
+      "logos/statkraft_nl.png",
+      "logos/wurth_com_tw.png",
+      "logos/wurth-international_com.png",
+      "logos/jll_lu.png",
+      "logos/habitativ_org.png",
+      "logos/edf-re_com_au.png",
+      "logos/nikon_com_sg.png",
+      "logos/cdljatai_com_br.jpeg",
+      "logos/reallifeconcepts_co_za.png",
+      "logos/patheon_com.png",
+      "logos/wuerth_com_ph.png",
+      "logos/equansservices_com.png",
+      "logos/toyotayatumugla_com_tr.png",
+      "logos/elizabetharden_tw.jpeg",
+      "logos/nutriciababy_be.jpeg",
+      "logos/misterwhat_de.png",
+      "logos/vkf-renzel_com_tr.png",
+      "logos/misterwhat_pl.png",
+      "logos/engie_co_uk.png",
+      "logos/vkf-renzel_nl.png",
+      "logos/grantthornton_com_sv.png",
+      "logos/jll_co_kr.png",
+      "logos/pingusenglish_com_tr.png",
+      "logos/fleishmanhillard_co_id.png",
+      "logos/tbwa_com_hk.png",
+      "logos/polarysgroup_eu.png",
+      "logos/greatplacetowork_co_kr.png",
+      "logos/ebay_fr.png",
+      "logos/carglass_re.jpeg",
+      "logos/chicco_fr.png",
+      "logos/medef-artois_fr.png",
+      "logos/carlsjr_es.jpeg",
+      "logos/medef-franche-comte_com.png",
+      "logos/gs1_ro.png",
+      "logos/daikinuae_com.jpeg",
+      "logos/medef-beziers_fr.png",
+      "logos/linde-gas_es.png",
+      "logos/actemium_us.png",
+      "logos/bestdrive_fi.png",
+      "logos/greatplacetowork_be.png",
+      "logos/experian_com_my.png",
+      "logos/aamcoyumaaz_com.png",
+      "logos/vkf-renzel_dk.png",
+      "logos/infiniti-abudhabi_com.png",
+      "logos/infiniti_com_pa.png",
+      "logos/shopee_com_mx.png",
+      "logos/netterden_com.png",
+      "logos/hyundaitgv_ro.png",
+      "logos/manpowergroup_com_sg.png",
+      "logos/toyotayatubodrum_com_tr.png",
+      "logos/alten_ca.png",
+      "logos/job-impulse_mx.png",
+      "logos/hertz-autopozicovna_sk.png",
+      "logos/thelocal_no.png",
+      "logos/wurth-int_com.png",
+      "logos/jdimmigration_es.jpeg",
+      "logos/hps-guns_de.jpeg",
+      "logos/intersport_si.png",
+      "logos/toyotaonatca_com_tr.png",
+      "logos/fluidmasteruk_com.png",
+      "logos/carglass_lt.png",
+      "logos/culliganwatercorrections_com.webp",
+      "logos/hertz_com_do.png",
+      "logos/moorestoke_co_uk.png",
+      "logos/nikon_com_hk.png",
+      "logos/synergie_es.png",
+      "logos/engie_de.png",
+      "logos/bosch-industrial_com.png",
+      "logos/savethechildren_mn.png",
+      "logos/lamborghini-frankfurt_com.png",
+      "logos/misterwhat_pt.png",
+      "logos/top1toysbleijenberg_nl.png",
+      "logos/harigmfg_com.jpeg",
+      "logos/bakertilly_it.png",
+      "logos/toyotabeerens_be.png",
+      "logos/bbraun-vetcare_pt.jpeg",
+      "logos/gwaliasweets_ca.png",
+      "logos/garminstore_com_br.png",
+      "logos/vitalsauna_eu.png",
+      "logos/engie_nl.png",
+      "logos/lamborghini-zh_ch.png",
+      "logos/altengt_com.png",
+      "logos/wurth_co.png",
+      "logos/solidea_co_za.png",
+      "logos/julis-sachsenanhalt_de.png",
+      "logos/eurofins_hr.png",
+      "logos/kia-mueller-genthin_de.jpeg",
+      "logos/linexofschererville_com.png",
+      "logos/kia-kurt-recklinghausen_de.jpeg",
+      "logos/inhuntworld_com.png",
+      "logos/strabag-pfs_com.png",
+      "logos/linexcoloradosprings_com.jpeg",
+      "logos/grantthornton_tn.png",
+      "logos/renault_dk.png",
+      "logos/thelocal_at.png",
+      "logos/gjw-hessen_de.jpeg",
+      "logos/daikinchemicals_com.png",
+      "logos/toyotaer_com_tr.png",
+      "logos/zalando_cz.png",
+      "logos/wurth_lv.png",
+      "logos/inbeat_co.png",
+      "logos/hendersonkyedc_com.png",
+      "logos/pingusenglish_ac_th.png",
+      "logos/ebay_com_hk.png",
+      "logos/gs1_dk.png",
+      "logos/toshiba-water_com.png",
+      "logos/kia-schmid-hoehenkirchen_de.jpeg",
+      "logos/ymcaokc_org.png",
+      "logos/batistareisfloresonline_com_br.png",
+      "logos/medicover_de.png",
+      "logos/entergy-mississippi_com.png",
+      "logos/kia-maier-cham_de.jpeg",
+      "logos/santander_de.png",
+      "logos/foxinaboxlondon_uk.png",
+      "logos/pamarco_co_uk.png",
+      "logos/mercanta_de.png",
+      "logos/statkraft_ie.png",
+      "logos/tryg_com.png",
+      "logos/greatplacetowork_gr.png",
+      "logos/renault_com_my.jpeg",
+      "logos/hometowninsurance_us.png",
+      "logos/kia-fischer-cottbus_de.jpeg",
+      "logos/linexps_com.png",
+      "logos/amway_co_jp.jpeg",
+      "logos/kia-brueggemann-neubrandenburg_de.jpeg",
+      "logos/infiniti-dubai_com.png",
+      "logos/sto-ukraine_com.png",
+      "logos/intertongn_es.png",
+      "logos/stanbicbank_co_zm.jpeg",
+      "logos/medef-ardennes_com.png",
+      "logos/medef-nouvelle-aquitaine_fr.png",
+      "logos/papajohns_com_pk.png",
+      "logos/saint-gobain_com_co.png",
+      "logos/entergynewsroom_com.png",
+      "logos/foxinaboxmiami_com.png",
+      "logos/rotary7610_org.png",
+      "logos/svncredit_ro.png",
+      "logos/papajohns_com_tr.png",
+      "logos/aamco-omahawest_com.png",
+      "logos/richs_co_uk.png",
+      "logos/toyotadolak_cz.png",
+      "logos/piccinifuels_it.png",
+      "logos/allianzdarta_ie.png",
+      "logos/immunospot_eu.png",
+      "logos/mazda_de.png",
+      "logos/aamcokansascitysouth_com.jpg",
+      "logos/pkf_sk.jpeg",
+      "logos/mercyships_be.png",
+      "logos/naturesrewardcoloredcauliflower_com.png",
+      "logos/kia_com_cy.jpeg",
+      "logos/aamcopinevillenc_com.png",
+      "logos/daikin-iraq_com.jpeg",
+      "logos/fleishmanhillard_ie.png",
+      "logos/toyotasandikci_com_tr.png",
+      "logos/cinnabon_ca.jpeg",
+      "logos/renaultzaragoza_com.png",
+      "logos/linde_ch.png",
+      "logos/demeterschmid_de.png",
+      "logos/greatplacetowork_com_cy.png",
+      "logos/isic_de.jpeg",
+      "logos/engieresources_com.png",
+      "logos/honda_com_bd.png",
+      "logos/electrolux_com_mx.jpg",
+      "logos/toysrus_com_sg.jpeg",
+      "logos/berlitzhautsdefrance_fr.png",
+      "logos/kia-duerkop-hannover_de.jpeg",
+      "logos/lindt_at.png",
+      "logos/ymca-ywca_org.jpeg",
+      "logos/gjw-mv_de.jpeg",
+      "logos/rotaryclubofessex_com.jpeg",
+      "logos/statkraft_fr.png",
+      "logos/shopee_co_id.png",
+      "logos/engie_cl.png",
+      "logos/skybusiness_co_nz.png",
+      "logos/kia-schunke-aurich_de.jpeg",
+      "logos/medef-mayenne_com.png",
+      "logos/avia_hu.png",
+      "logos/greatplacetowork_com_uy.png",
+      "logos/grantthornton_bg.png",
+      "logos/titancontainers_dk.jpg",
+      "logos/orient-food_sk.png",
+      "logos/medef-pays-basque_fr.png",
+      "logos/aamcoraleigh-capitalblvd_com.png",
+      "logos/venturelightingme_com.png",
+      "logos/amnesty_ie.jpeg",
+      "logos/actemium_es.png",
+      "logos/ilmercatoambacht_nl.png",
+      "logos/wordans_it.png",
+      "logos/wuerth_com_kh.png",
+      "logos/sitechdo_com_mx.jpeg",
+      "logos/renault-materom_ro.webp",
+      "logos/eca-serel_de.png",
+      "logos/toyotacavdarli_com_tr.png",
+      "logos/tasuki-holdings_co_jp.png",
+      "logos/linexofwilliston_com.png",
+      "logos/amway_com_do.png",
+      "logos/le-tech_co_uk.png",
+      "logos/toyotaaydogan_com_tr.png",
+      "logos/lamborghini-rotterdam_nl.png",
+      "logos/wwf_ro.jpeg",
+      "logos/zalando_nl.png",
+      "logos/cargoriga_ee.png",
+      "logos/modshair-stuttgart_de.png",
+      "logos/prioritymanagementscotland_co_uk.png",
+      "logos/citychain_co_th.jpeg",
+      "logos/mazda-bcrmotors_ru.jpeg",
+      "logos/wurth_com_uy.png",
+      "logos/zalando_be.png",
+      "logos/titancontainers_co_uk.jpg",
+      "logos/vamdodoma_ru.png",
+      "logos/aiesec_ba.png",
+      "logos/fmlogistic_it.png",
+      "logos/kia-koenig-teltow_de.jpeg",
+      "logos/gjwnwd_de.jpeg",
+      "logos/aamcoofgreensboro_com.png",
+      "logos/toyotabakircilarfethiye_com_tr.png",
+      "logos/canonburgos_com.png",
+      "logos/grantthornton_do.png",
+      "logos/wwf_or_th.png",
+      "logos/landermitsubishi_com_au.png",
+      "logos/viacon_fi.png",
+      "logos/toyotakar_com_tr.png",
+      "logos/kia-fischer-muenchberg_de.jpeg",
+      "logos/thelocal_dk.png",
+      "logos/julis-rhein-berg_de.png",
+      "logos/fmlogistic_com_br.png",
+      "logos/kia-crimea_ru.jpeg",
+      "logos/reedglobal_com_tr.png",
+      "logos/msmode_lu.png",
+      "logos/engenmauritius_com.jpg",
+      "logos/advocarewdp_com.jpg",
+      "logos/toyotasonkar_com_tr.png",
+      "logos/wuerth_co_jp.png",
+      "logos/pilotpen_co_th.jpeg",
+      "logos/freseniusmedicalcare_ca.png",
+      "logos/aamcoseguin_com.png",
+      "logos/reedglobal_hu.png",
+      "logos/euromaster_cz.png",
+      "logos/infiniti-jordan_com.png",
+      "logos/greatplacetowork_lu.png",
+      "logos/wordans_de.png",
+      "logos/lindt_ch.png",
+      "logos/giacomini_cz.png",
+      "logos/victorsport_com_tw.jpeg",
+      "logos/adlatus-nordwestschweiz_ch.png",
+      "logos/mazda-bielskobiala-autogazda_pl.png",
+      "logos/kia-fugel-dresden_de.jpeg",
+      "logos/jll_co_il.png",
+      "logos/mapfre_com_ni.png",
+      "logos/stanleyelectricus_com.jpeg",
+      "logos/fmlogistic_cz.png",
+      "logos/mazda_es.png",
+      "logos/mazdabali_co_id.png",
+      "logos/lindt_de.jpeg",
+      "logos/foxinaboxbrisbane_com.png",
+      "logos/ebay_co_kr.jpeg",
+      "logos/honda_com_ng.jpeg",
+      "logos/siebtechnik-tema_com_au.png",
+      "logos/julis-muenchen_de.png",
+      "logos/kiaofstcatharines_com.png",
+      "logos/wurthsaudi_com.png",
+      "logos/aamcobloomingtonil_com.png",
+      "logos/toysrus_com_ph.png",
+      "logos/workcircle_com.png",
+      "logos/vkf-renzel_fr.png",
+      "logos/wurth_co_za.png",
+      "logos/dopplerumbrellas_com_au.png",
+      "logos/fleishmanhillard_cn.png",
+      "logos/amnesty_is.png",
+      "logos/thebodyshop_fi.png",
+      "logos/job-impulse_hu.png",
+      "logos/intersport_fi.png",
+      "logos/gulfoil_co_uk.png",
+      "logos/kia-hotz-gardelegen_de.jpeg",
+      "logos/msd-animal-health_com_au.png",
+      "logos/jollibee_com_bn.png",
+      "logos/tensar_com_cn.png",
+      "logos/adeccogroupfoundationus_org.png",
+      "logos/reedglobal_com_mt.png",
+      "logos/rotary7620_org.png",
+      "logos/medef-seineetmarne_fr.png",
+      "logos/budatec_de.png",
+      "logos/advocaremorristownpediatrics_com.jpg",
+      "logos/fmlogistic_com_ua.png",
+      "logos/toyotaakten_com_tr.png",
+      "logos/zkteco_com_pk.png",
+      "logos/kia-poeschl-bensheim_de.jpeg",
+      "logos/medef-cher_fr.png",
+      "logos/kia-levy-wittenberg_de.jpeg",
+      "logos/kia-plt_ru.jpeg",
+      "logos/kia-brass-frankfurt_de.jpeg",
+      "logos/snapologyfranchising_com.jpeg",
+      "logos/immanuelalbertinen_de.jpeg",
+      "logos/inductotherm_com_au.png",
+      "logos/fleishmanhillard_ph.png",
+      "logos/equans_cz.png",
+      "logos/avia_ch.png",
+      "logos/bbraun_se.jpeg",
+      "logos/ebay_it.png",
+      "logos/entergy-arkansas_com.png",
+      "logos/kokuyo-furniture_com_my.png",
+      "logos/mazda_com_tr.png",
+      "logos/subaru-bd_com.jpeg",
+      "logos/medef-vendee_fr.png",
+      "logos/linde-gas_fr.png",
+      "logos/kia-guenther-dingelstaedt_de.jpeg",
+      "logos/logicvapes_co_uk.png",
+      "logos/nutricia_de.jpeg",
+      "logos/foxinaboxgraz_at.png",
+      "logos/starkeypro_com_au.png",
+      "logos/toyotacommonwealth_com.png",
+      "logos/metlife_com_au.jpeg",
+      "logos/meggle_de.png",
+      "logos/avis_com_ph.png",
+      "logos/renaultsanzhispano_es.png",
+      "logos/toyotakocaelikaya_com_tr.png",
+      "logos/jll_ch.png",
+      "logos/cpi-print_com.png",
+      "logos/wurth-international_com_cn.png",
+      "logos/bbraun_co_za.jpeg",
+      "logos/msd_es.jpeg",
+      "logos/sans-sans_com_my.jpeg",
+      "logos/myplumberca_com.png",
+      "logos/cinnabon_pk.jpeg",
+      "logos/kia-auto-center-weiterstadt_de.jpeg",
+      "logos/fmlogistic_sk.png",
+      "logos/wwfcz_org.jpeg",
+      "logos/kia-jaeger-bevern_de.jpeg",
+      "logos/ecaas_com.png",
+      "logos/kia-wandscher-oldenburg_de.jpeg",
+      "logos/aamco-omahasouth_com.png",
+      "logos/kia-strehle-dresden_de.jpeg",
+      "logos/medef-sarthe_fr.png",
+      "logos/toyotanorthedsa_com.png",
+      "logos/stocanada_com.png",
+      "logos/viacon_no.png",
+      "logos/eurochem-na_com.png",
+      "logos/ibc-solar_jp.png",
+      "logos/isover_sk.png",
+      "logos/intersport_hr.png",
+      "logos/aviabienert_de.png",
+      "logos/starkeyjp_com.jpeg",
+      "logos/meggle-foodingredients_de.png",
+      "logos/billygraham_ca.png",
+      "logos/gulfsverige_com.png",
+      "logos/vkf-renzel_ro.png",
+      "logos/kia-etehad-halstenbek_de.jpeg",
+      "logos/rotary6450_org.png",
+      "logos/mapfre_com_py.png",
+      "logos/miniso_ge.png",
+      "logos/toyotagocmenturk_com_tr.png",
+      "logos/starkeypro_com.png",
+      "logos/actemium_ch.png",
+      "logos/kia-brueggemann-brandenburg_de.jpeg",
+      "logos/ecslupsk_pl.png",
+      "logos/kiaofpa_com.png",
+      "logos/thebodyshop_com_tr.png",
+      "logos/misterwhat_com_br.png",
+      "logos/toyotasamlioglu_com_tr.png",
+      "logos/thebodyshop_ee.png",
+      "logos/toyotaconstanta_ro.png",
+      "logos/avon_co_mu.png",
+      "logos/teknoware_ae.jpeg",
+      "logos/bakertilly_uy.png",
+      "logos/tescomobile_sk.png",
+      "logos/carlsjr_com_sg.png",
+      "logos/aamcoypsilantimi_com.png",
+      "logos/isover_bg.png",
+      "logos/kalorimeta-singen_de.png",
+      "logos/meggle_co_jp.jpeg",
+      "logos/msmode_fr.png",
+      "logos/mazdanorkar_com.png",
+      "logos/allianz_ua.png",
+      "logos/msdinsight_no.jpeg",
+      "logos/subwayburbank_com.png",
+      "logos/shopee_co_th.png",
+      "logos/zalando_at.png",
+      "logos/astreitalia_it.jpeg",
+      "logos/bbraun_pk.jpeg",
+      "logos/amnesty_se.jpeg",
+      "logos/ymca-cnw_org.jpeg",
+      "logos/ardex_pl.png",
+      "logos/engie_sk.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#23acb6",
+      "dominant_colors": [
+        "#ccdc4c",
+        "#0c3484",
+        "#bc3c8c"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/pkfve_com.png",
+      "logos/pkfcs_co_nz.png",
+      "logos/pkfmalta_com.png",
+      "logos/pkf-central-america_com.png",
+      "logos/pkf_com_cy.png",
+      "logos/pkfboston_com.png",
+      "logos/pkfgf_co_nz.png",
+      "logos/pkf_pt.png",
+      "logos/pkf_ch.png",
+      "logos/pkfjnd_com.png",
+      "logos/pkfea_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5fb633",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#04a404",
+        "#048c04"
+      ],
+      "size_info": "57x57"
+    },
+    "files": [
+      "logos/murrelektronik_com_tr.png",
+      "logos/murrelektronik_ch.png",
+      "logos/murrelektronik_sk.png",
+      "logos/murrelektronik_cz.png",
+      "logos/murrelektronik_fr.png",
+      "logos/murrelektronik_it.png",
+      "logos/murrelektronik_hu.png",
+      "logos/murrelektronik_ro.png",
+      "logos/murrelektronik_at.png",
+      "logos/murrelektronik_kr.png",
+      "logos/murrelektronik_fi.png",
+      "logos/murrelektronik_com_cn.png",
+      "logos/murrelektronik_no.png",
+      "logos/murrelektronik_sg.png",
+      "logos/murrelektronik_be.png",
+      "logos/murrelektronik_uk.png",
+      "logos/murrelektronik_in.png",
+      "logos/murrelektronik_se.png",
+      "logos/murrelektronik_pl.png",
+      "logos/murrelektronik_es.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a29cb2",
+      "dominant_colors": [
+        "#cccccc",
+        "#c4c4c4",
+        "#dcdcdc"
+      ],
+      "size_info": "100x60"
+    },
+    "files": [
+      "logos/bosch-pt_com_my.png",
+      "logos/bosch-pt_com_cn.png",
+      "logos/bosch-pt_co_in.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#484143",
+      "dominant_colors": [
+        "#040404",
+        "#443c3c",
+        "#3c3434"
+      ],
+      "size_info": "192x192"
+    },
+    "files": [
+      "logos/mazda-autohaus-kaschmieder-waren_de.png",
+      "logos/mazda-autocentrum-engin-holzminden_de.png",
+      "logos/mazda-autohaus-gerhard-figge-waldeck-hoeringhausen_de.png",
+      "logos/mazda-autohaus-henseler-schwedt_de.png",
+      "logos/mazda-autohaus-tietje-holmb-wedel_de.png",
+      "logos/mazda-autohaus-schindlbeck-straubing_de.png",
+      "logos/mazda-autohaus-behrens-magdeburg-ottersleben_de.png",
+      "logos/mazda-autohaus-kilger-regen_de.png",
+      "logos/mazda-autohaus-rottmann-bottrop_de.png",
+      "logos/mazda-autohaus-stoelzel-doehlau_de.png",
+      "logos/mazda-autohaus-buelo-naumburg_de.png",
+      "logos/mazda-autohaus-banaszak-wesel_de.png",
+      "logos/mazda-autohaus-banaszak-kleve_de.png",
+      "logos/mazda-autohaus-ubben-aurich_de.png",
+      "logos/mazda-autohaus-ahb-gotha_de.png",
+      "logos/mazda-autohaus-wagner-dortmund_de.png",
+      "logos/mazda-automobile-maier-cham_de.png",
+      "logos/mazda-autohaus-sturne-rochlitz_de.png",
+      "logos/mazda-autohaus-mueller-plauen_de.png",
+      "logos/mazda-autohaus-bolluck-goslar_de.png",
+      "logos/mazda-autohaus-schneider-sondershausen_de.png",
+      "logos/mazda-autohaus-henn-weilamrhein_de.png",
+      "logos/mazda-autohaus-klein-bietigheim-bissingen_de.png",
+      "logos/mazda-autohaus-thoss-falkenstein_de.png",
+      "logos/mazda-autohaus-wilk-kaczmarek-schwerin_de.png",
+      "logos/mazda-autohaus-suedring-datteln_de.png",
+      "logos/mazda-autohaus-blank-dinkelsbuehl_de.png",
+      "logos/mazda-autohaus-weber-magdeburg_de.png",
+      "logos/mazda-autohaus-ruettiger-wallduern_de.png",
+      "logos/mazda-autohaus-gruendel-doerth_de.png",
+      "logos/mazda-autohaus-hoeffner-clausen_de.png",
+      "logos/mazda-service-koch-ludwigsfelde_de.png",
+      "logos/mazda-autohaus-dohm-horn-bad-meinberg_de.png",
+      "logos/mazda-autohaus-wuttke-gummersbach_de.png",
+      "logos/mazda-autohaus-doerenkaemper-bad-hersfeld_de.png",
+      "logos/mazda-autohaus-witthoeft-bad-oldesloe_de.png",
+      "logos/mazda-autohaus-ehrlich-aschaffenburg_de.png",
+      "logos/mazda-autohaus-lommel-grettstadt_de.png",
+      "logos/mazda-autohaus-fenzl-hauzenberg_de.png",
+      "logos/mazda-autohaus-wedding-engelskirchen-albertsth_de.png",
+      "logos/mazda-service-metz-marne_de.png",
+      "logos/mazda-autohaus-elstner-jena_de.png",
+      "logos/mazda-autohaus-schmidt-grossenhain_de.png",
+      "logos/mazda-autohaus-mork-rockenhausen_de.png",
+      "logos/mazda-autohaus-dorner-riedlingen_de.png",
+      "logos/mazda-autohaus-roessel-birkenau_de.png",
+      "logos/mazda-autohaus-wilhelm-huellhorst_de.png",
+      "logos/mazda-autohaus-berlenbach-bergischgladbach_de.png",
+      "logos/mazda-autohaus-roeser-grossmaischeid_de.png",
+      "logos/mazda-autohaus-haese-erkrath-hochdahl_de.png",
+      "logos/mazda-autohaus-kramer-kirchberg_de.png",
+      "logos/mazda-autohaus-moellenkamp-rheine_de.png",
+      "logos/mazda-autohaus-schmidt-meschede_de.png",
+      "logos/mazda-autohaus-mueller-und-thurnes-tholey_de.png",
+      "logos/mazda-autohaus-richter-forst_de.png",
+      "logos/mazda-autopark-rath-krefeld_de.png",
+      "logos/mazda-autohaus-lackmann-sendenhorst_de.png",
+      "logos/mazda-autohaus-eisele-langenau_de.png",
+      "logos/mazda-automobile-weberpals-sonneberg-hoenbach_de.png",
+      "logos/mazda-autohaus-stiefel-muehlacker_de.png",
+      "logos/mazda-autohaus-heider-dresden_de.png",
+      "logos/mazda-autohaus-fritsche-grossschoenau_de.png",
+      "logos/mazda-autohaus-lohmann-kreuztal_de.png",
+      "logos/mazda-autohaus-hansmann-kassel_de.png",
+      "logos/mazda-autohaus-voigtlaender-meyer-hamburg_de.png",
+      "logos/mazda-autohaus-hansmann-melsungen_de.png",
+      "logos/mazda-autohaus-abs-erlangen_de.png",
+      "logos/mazda-autohaus-flindt-marschacht_de.png",
+      "logos/mazda-autohaus-becker-homburg-bruchhof_de.png",
+      "logos/mazda-autohaus-wassing-ahaus-wuellen_de.png",
+      "logos/mazda-autohaus-hellwig-hoyerswerda_de.png",
+      "logos/mazda-autohaus-kalina-gelsenkirchen_de.png",
+      "logos/mazda-autohaus-boehme-lutherstadt-wittenberg_de.png",
+      "logos/mazda-autohaus-kopke-bendel-marl_de.png",
+      "logos/mazda-autohaus-w-k-kamen_de.png",
+      "logos/mazda-autohaus-huck-buehl_de.png",
+      "logos/mazda-autohaus-hamester-hamburg-bergedorf_de.png",
+      "logos/mazda-autohaus-schwenke-duisburg_de.png",
+      "logos/mazda-autohaus-dittrich-genthin-huettermuehle_de.png",
+      "logos/mazda-autohaus-grasdanner-holzkirchen_de.png",
+      "logos/mazda-autohaus-schindlbeck-schwandorf_de.png",
+      "logos/mazda-autohaus-albstadt-auto-domicil-ebingen_de.png",
+      "logos/mazda-autohaus-hohenfeld-dinslaken_de.png",
+      "logos/mazda-autohaus-ludwig-halle-neustadt_de.png",
+      "logos/mazda-autohaus-born-ludwigslust_de.png",
+      "logos/mazda-autohaus-sturne-grimma_de.png",
+      "logos/mazda-autohaus-goedde-meschede_de.png",
+      "logos/mazda-autohaus-misch-uebach-palenberg_de.png",
+      "logos/mazda-autohaus-tillack-perleberg_de.png",
+      "logos/mazda-autohaus-lehmann-senftenberg_de.png",
+      "logos/mazda-autohaus-bayer-goessweinstein_de.png",
+      "logos/mazda-autohaus-lotspeich-muenchen_de.png",
+      "logos/mazda-autohaus-haeusler-fuerstenfeldbruck_de.png",
+      "logos/mazda-autohaus-brutschin-lenzkirch_de.png",
+      "logos/mazda-autohaus-tabbouch-speyer_de.png",
+      "logos/mazda-autohaus-friedmann-steinfeld_de.png",
+      "logos/mazda-autohaus-schreier-biebergemuend-bieber_de.png",
+      "logos/mazda-autohaus-albers-doerpen_de.png",
+      "logos/mazda-autohaus-baumgart-altensteig_de.png",
+      "logos/mazda-autohaus-weiss-niedernhausen_de.png",
+      "logos/mazda-autohaus-engelbart-delmenhorst_de.png",
+      "logos/mazda-autohaus-gollan-hamm_de.png",
+      "logos/mazda-autohaus-rausch-dresden_de.png",
+      "logos/mazda-autohaus-torp-wilhelmshaven_de.png",
+      "logos/mazda-autohaus-schmidt-oschatz_de.png",
+      "logos/mazda-autohaus-trumpf-wimmelburg_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4a3364",
+      "dominant_colors": [
+        "#1c141c",
+        "#241c24",
+        "#0c0c14"
+      ],
+      "size_info": "800x600"
+    },
+    "files": [
+      "logos/komoder_md.jpeg",
+      "logos/komoder_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#57388d",
+      "dominant_colors": [
+        "#6c44ac",
+        "#3c2464",
+        "#d4d4e4"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/monster_se.jpeg",
+      "logos/monster_at.jpeg",
+      "logos/monster_be.jpeg",
+      "logos/monster_co_uk.jpeg",
+      "logos/monster_ie.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#38263d",
+      "dominant_colors": [
+        "#040404",
+        "#1c346c",
+        "#243c6c"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/cleijsenautoschadegoirle_nl.png",
+      "logos/aspenpharma_es.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ceb88c",
+      "dominant_colors": [
+        "#040404",
+        "#dcc474",
+        "#e4cc8c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/lindt_com_mx.png",
+      "logos/lindt_co_za.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#47829b",
+      "dominant_colors": [
+        "#145c6c",
+        "#fcfcfc",
+        "#0c446c"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/asendiausa_com.png",
+      "logos/asendia_sg.png",
+      "logos/asendia_es.png",
+      "logos/asendia_de.png",
+      "logos/asendia_dk.png",
+      "logos/asendia_se.png",
+      "logos/steelhousegroup_ee.jpeg",
+      "logos/asendia_co_uk.png",
+      "logos/asendia_at.png",
+      "logos/rutscherlebnis_at.png",
+      "logos/asendia_it.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#619e54",
+      "dominant_colors": [
+        "#e4fcfc",
+        "#dcfcfc",
+        "#f4fcfc"
+      ],
+      "size_info": "1130x597"
+    },
+    "files": [
+      "logos/advantisengineering_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b0b0d6",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#ececf4",
+        "#f4f4fc"
+      ],
+      "size_info": "Varies (6 different sizes)"
+    },
+    "files": [
+      "logos/aeccglobal_my.jpeg",
+      "logos/intersport-arc2000_com.jpeg",
+      "logos/intersport-courchevel1850_com.jpeg",
+      "logos/noiseassessments_org.jpeg",
+      "logos/benefitsystems_hr.png",
+      "logos/intersport-courchevel1550_com.jpeg",
+      "logos/intersport-arvieux_com.jpeg",
+      "logos/enefitvolt_com.jpeg",
+      "logos/matutis_de.webp",
+      "logos/intersport-grandbornand_com.jpeg",
+      "logos/intersport-risoul_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#0f4467",
+      "dominant_colors": [
+        "#0c3c5c",
+        "#042444",
+        "#04244c"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/renault-guilers_fr.webp",
+      "logos/sonepar_co.jpeg",
+      "logos/protectourwinters_de.png",
+      "logos/remax_fi.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#255381",
+      "dominant_colors": [
+        "#042c6c",
+        "#045c74",
+        "#040404"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/holidayland-wunstorf_de.png",
+      "logos/holidayland-pohlheim_de.png",
+      "logos/dulux_pl.png",
+      "logos/boschtools_com.png",
+      "logos/dulux_com_my.png",
+      "logos/holidayland-dorfen_de.png",
+      "logos/dulux_ie.png",
+      "logos/countryroadsford_net.png",
+      "logos/duluxarabia_com.png",
+      "logos/holidayland-friedrichshafen_de.png",
+      "logos/gs1bg_org.png",
+      "logos/holidayland-roedermark_de.png",
+      "logos/dulux_com_sg.png",
+      "logos/holidayland-reisebuero-stuppert_de.png",
+      "logos/holidayland-sanktwendel_de.png",
+      "logos/holidayland-durmersheim_de.png",
+      "logos/gs1ec_org.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#312030",
+      "dominant_colors": [
+        "#040404",
+        "#1c3c6c"
+      ],
+      "size_info": "300x300"
+    },
+    "files": [
+      "logos/cdvi_se.png",
+      "logos/cdvibenelux_com.png",
+      "logos/cdvi_ca.png",
+      "logos/cdviberica_com.png",
+      "logos/cdvi_fr.png",
+      "logos/cdvi_ch.png",
+      "logos/cdvi_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d32d38",
+      "dominant_colors": [
+        "#d40c1c",
+        "#fcfcfc",
+        "#d40c14"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/einhell_bg.png",
+      "logos/einhell_rs.png",
+      "logos/einhell_ch.png",
+      "logos/einhell_cz.png",
+      "logos/mapfre_com_sv.png",
+      "logos/einhell_dk.png",
+      "logos/adecco_de.jpeg",
+      "logos/einhell_de.png",
+      "logos/mapfre_com_gt.png",
+      "logos/einhell_co_uk.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#774949",
+      "dominant_colors": [
+        "#241c1c",
+        "#040404",
+        "#0c0404"
+      ],
+      "size_info": "1920x753"
+    },
+    "files": [
+      "logos/isuzubarcs_hu.webp",
+      "logos/isuzugyor_hu.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b6af93",
+      "dominant_colors": [
+        "#ececec",
+        "#e4dccc",
+        "#f4f4fc"
+      ],
+      "size_info": "1920x1280"
+    },
+    "files": [
+      "logos/kumon_com_hk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#805489",
+      "dominant_colors": [
+        "#4c6494",
+        "#5474a4",
+        "#546c9c"
+      ],
+      "size_info": "400x235"
+    },
+    "files": [
+      "logos/toyota-s_co_il.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7cb464",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#0c6c5c",
+        "#0c7454"
+      ],
+      "size_info": "319x319"
+    },
+    "files": [
+      "logos/adra_pl.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#baa8a0",
+      "dominant_colors": [
+        "#e4dcd4",
+        "#dcd4cc",
+        "#d4ccc4"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/modshair-koeln-lindenthal_de.jpeg",
+      "logos/daikin_ch.png",
+      "logos/warmupdeutschland_de.jpeg",
+      "logos/techmatrix-asia_com.png",
+      "logos/modshair-bielefeld_de.jpeg",
+      "logos/modshair-koeln-city_de.jpeg",
+      "logos/modshair-braunschweig_de.jpeg",
+      "logos/modshair-hannover_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6d7996",
+      "dominant_colors": [
+        "#241414",
+        "#c4d4e4",
+        "#b4ccdc"
+      ],
+      "size_info": "2048x1006"
+    },
+    "files": [
+      "logos/cardif_pl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#53637e",
+      "dominant_colors": [
+        "#040404",
+        "#d4dcf4",
+        "#fcfcfc"
+      ],
+      "size_info": "838x440"
+    },
+    "files": [
+      "logos/einhell_hr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7e5b44",
+      "dominant_colors": [
+        "#fcfcf4",
+        "#fcfcfc",
+        "#44342c"
+      ],
+      "size_info": "200x200"
+    },
+    "files": [
+      "logos/toyota_com_kh.jpeg",
+      "logos/toyota_com_la.jpeg",
+      "logos/toyota_com_np.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#352431",
+      "dominant_colors": [
+        "#0c0c0c",
+        "#040404",
+        "#140c0c"
+      ],
+      "size_info": "1200x600"
+    },
+    "files": [
+      "logos/airbnb_com_br.jpeg",
+      "logos/airbnb_ie.jpeg",
+      "logos/airbnb_cz.jpeg",
+      "logos/airbnb_co_in.jpeg",
+      "logos/airbnb_nl.jpeg",
+      "logos/airbnb_com_vn.jpeg",
+      "logos/airbnb_hu.jpeg",
+      "logos/airbnb_ba.jpeg",
+      "logos/airbnb_dk.jpeg",
+      "logos/airbnb_no.jpeg",
+      "logos/airbnb_jp.jpeg",
+      "logos/airbnb_com_pe.jpeg",
+      "logos/airbnb_am.jpeg",
+      "logos/airbnb_be.jpeg",
+      "logos/airbnb_com_ro.jpeg",
+      "logos/airbnb_ru.jpeg",
+      "logos/airbnb_ca.jpeg",
+      "logos/airbnb_com_co.jpeg",
+      "logos/airbnb_com_au.jpeg",
+      "logos/airbnb_rs.jpeg",
+      "logos/airbnb_com_ar.jpeg",
+      "logos/airbnb_co_kr.jpeg",
+      "logos/airbnb_com_tw.jpeg",
+      "logos/airbnb_si.jpeg",
+      "logos/airbnb_fr.jpeg",
+      "logos/airbnb_com_bo.jpeg",
+      "logos/airbnb_com_hk.jpeg",
+      "logos/airbnb_cl.jpeg",
+      "logos/airbnb_co_id.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9391b1",
+      "dominant_colors": [
+        "#040404",
+        "#d4e4fc",
+        "#fcfcfc"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/mersen_hu.jpeg",
+      "logos/hondabintang_com.jpeg",
+      "logos/mersen_it.jpeg",
+      "logos/mersen_com_br.jpeg",
+      "logos/mersen_jp.jpeg",
+      "logos/mersen_es.jpeg",
+      "logos/mersen_in.jpeg",
+      "logos/viessmann_ua.jpeg",
+      "logos/mersen_com_tr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#da8edd",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#1c1c1c",
+        "#e40414"
+      ],
+      "size_info": "2400x1200"
+    },
+    "files": [
+      "logos/mitsubishielectric-printing_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#53497c",
+      "dominant_colors": [
+        "#4484d4",
+        "#040404",
+        "#4484cc"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/affidea_pt.png",
+      "logos/affidea_ro.png",
+      "logos/affidea_pl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#91aeb8",
+      "dominant_colors": [
+        "#c4c4cc",
+        "#ccccd4",
+        "#c4ccd4"
+      ],
+      "size_info": "720x720"
+    },
+    "files": [
+      "logos/santander_pt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#85a655",
+      "dominant_colors": [
+        "#040404",
+        "#a4cc64",
+        "#84bc24"
+      ],
+      "size_info": "150x150"
+    },
+    "files": [
+      "logos/lww_co_uk.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b6743a",
+      "dominant_colors": [
+        "#dc2c1c",
+        "#44744c",
+        "#040404"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/synergiejobs_at.png",
+      "logos/pirtek_nl.png",
+      "logos/savethechildren_org_ph.png",
+      "logos/pirtek_ie.png",
+      "logos/pirtek_de.png",
+      "logos/pirtek_be.png",
+      "logos/pirtek_at.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6c505b",
+      "dominant_colors": [
+        "#0c0c0c",
+        "#343444",
+        "#04040c"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/orange_sk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d09364",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#fcbc74",
+        "#fcbc84"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/bakertilly_dk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b7a66f",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#fcfcf4",
+        "#f4ecdc"
+      ],
+      "size_info": "1920x519"
+    },
+    "files": [
+      "logos/bbraun_no.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8a9756",
+      "dominant_colors": [
+        "#8cb4e4",
+        "#94bce4",
+        "#9cc4ec"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/meggle-cheese_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#96817b",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#0c0c0c",
+        "#e4e4dc"
+      ],
+      "size_info": "1280x855"
+    },
+    "files": [
+      "logos/daikinqatar_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4e71a4",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#345c8c",
+        "#3c6494"
+      ],
+      "size_info": "16x16"
+    },
+    "files": [
+      "logos/cdvielectronics_com.png",
+      "logos/cdviplastics_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#331da3",
+      "dominant_colors": [
+        "#04048c",
+        "#fcfcfc",
+        "#040494"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/axa_dz.png",
+      "logos/axa_be.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#e8e3d4",
+      "dominant_colors": [
+        "#fcfcf4",
+        "#f4f4f4",
+        "#ecece4"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/bbraun_co.jpeg",
+      "logos/bbraun_com_ar.png",
+      "logos/bbraun_cl.png",
+      "logos/sprachschule-aktiv_de.webp",
+      "logos/keika-c_ed_jp.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9eb899",
+      "dominant_colors": [
+        "#bcc4bc",
+        "#c4ccc4",
+        "#fcfcfc"
+      ],
+      "size_info": "1920x800"
+    },
+    "files": [
+      "logos/bbraun_com_py.jpeg",
+      "logos/bbraun_lv.jpeg",
+      "logos/bbraun_ae.jpeg",
+      "logos/bbraun_com_br.jpeg",
+      "logos/bbraun_rs.jpeg",
+      "logos/bbraun_hr.jpeg",
+      "logos/bbraun_pe.jpeg",
+      "logos/bbraun_bg.jpeg",
+      "logos/bbraun_ro.jpeg",
+      "logos/bbraun_mx.jpeg",
+      "logos/bbraun_com_tr.jpeg",
+      "logos/bbraun_hu.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8c756c",
+      "dominant_colors": [
+        "#141414",
+        "#0c0c0c",
+        "#b4a484"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/daikin_al.jpeg",
+      "logos/daikin_ge.jpeg",
+      "logos/daikin_mk.jpeg",
+      "logos/daikin_si.jpeg",
+      "logos/daikin_eu.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4f70b3",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#4c6cac",
+        "#2c5ca4"
+      ],
+      "size_info": "407x357"
+    },
+    "files": [
+      "logos/plameco-bonn_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#3f649b",
+      "dominant_colors": [
+        "#243454",
+        "#243c64",
+        "#1c2c44"
+      ],
+      "size_info": "1536x1024"
+    },
+    "files": [
+      "logos/bizfilings_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5d6f72",
+      "dominant_colors": [
+        "#343434",
+        "#3c3c3c",
+        "#3c4444"
+      ],
+      "size_info": "1200x750"
+    },
+    "files": [
+      "logos/jungheinrich_cn.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b23d45",
+      "dominant_colors": [
+        "#d41c2c",
+        "#cc242c",
+        "#040404"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/avis_nc.png",
+      "logos/wurth_com_do.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9d9290",
+      "dominant_colors": [
+        "#bcbcbc",
+        "#b4b4b4",
+        "#acacac"
+      ],
+      "size_info": "1300x800"
+    },
+    "files": [
+      "logos/flashbay_fi.jpeg",
+      "logos/flashbay_es.jpeg",
+      "logos/flashbay_com_my.jpeg",
+      "logos/flashbay_pt.jpeg",
+      "logos/flashbay_fr.jpeg",
+      "logos/flashbay_co_nz.jpeg",
+      "logos/flashbay_hu.jpeg",
+      "logos/flashbay_ca.jpeg",
+      "logos/flashbay_no.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#403480",
+      "dominant_colors": [
+        "#24246c",
+        "#241c6c",
+        "#fcfcfc"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/servier_com_ph.png",
+      "logos/servier_bg.png",
+      "logos/servier_co_th.png",
+      "logos/servier_si.png",
+      "logos/servier_pl.png",
+      "logos/servier_sk.png",
+      "logos/servier_ge.png",
+      "logos/servier_lv.png",
+      "logos/servier_hu.png",
+      "logos/servier_com_ar.png",
+      "logos/servier_co_id.png",
+      "logos/servier_it.png",
+      "logos/servier_co_uk.png",
+      "logos/servier_gr.png",
+      "logos/servier_ru.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a48e83",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#ececf4",
+        "#f4f4fc"
+      ],
+      "size_info": "1280x855"
+    },
+    "files": [
+      "logos/daikinbahrain_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#537c55",
+      "dominant_colors": [
+        "#6484b4",
+        "#f4f4f4",
+        "#948c7c"
+      ],
+      "size_info": "1024x521"
+    },
+    "files": [
+      "logos/drekopf-kanalservice_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#496c94",
+      "dominant_colors": [
+        "#4c6c74",
+        "#3444bc",
+        "#3c4cac"
+      ],
+      "size_info": "189x28"
+    },
+    "files": [
+      "logos/decathlon_com_br.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#74aeb9",
+      "dominant_colors": [
+        "#94c4ec",
+        "#84b4e4",
+        "#8cbcec"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/venaenergy_co_jp.jpeg",
+      "logos/bauer-egypt_com.jpeg",
+      "logos/cvjm-gomaringen_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7e5e54",
+      "dominant_colors": [
+        "#141414",
+        "#140c0c",
+        "#0c0c0c"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/specialistnutrition_us.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#58727a",
+      "dominant_colors": [
+        "#0c141c",
+        "#b4c4cc",
+        "#14242c"
+      ],
+      "size_info": "1920x737"
+    },
+    "files": [
+      "logos/hansa-flex_at.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d4cea4",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#fcfcf4",
+        "#fcfcc4"
+      ],
+      "size_info": "865x433"
+    },
+    "files": [
+      "logos/freseniuskidneycare_asia.jpeg",
+      "logos/freseniuskidneycare_ph.jpeg",
+      "logos/freseniuskidneycare_au.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#cccc19",
+      "dominant_colors": [
+        "#fcec1c",
+        "#044c9c",
+        "#0c549c"
+      ],
+      "size_info": "57x57"
+    },
+    "files": [
+      "logos/lidl-voyages_fr.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#414188",
+      "dominant_colors": [
+        "#d42434",
+        "#fcfcfc",
+        "#142444"
+      ],
+      "size_info": "300x110"
+    },
+    "files": [
+      "logos/aamcooflascruces_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#786e65",
+      "dominant_colors": [
+        "#4c4444",
+        "#544c44",
+        "#7c746c"
+      ],
+      "size_info": "1200x750"
+    },
+    "files": [
+      "logos/jungheinrich_com_sg.jpeg",
+      "logos/jungheinrich_com_my.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#322e70",
+      "dominant_colors": [
+        "#2c2c6c",
+        "#fcfcfc",
+        "#2c246c"
+      ],
+      "size_info": "1600x1067"
+    },
+    "files": [
+      "logos/servier_ua.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#54697b",
+      "dominant_colors": [
+        "#445c6c",
+        "#546c7c",
+        "#647484"
+      ],
+      "size_info": "1440x900"
+    },
+    "files": [
+      "logos/dfcapital-investors_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#575f45",
+      "dominant_colors": [
+        "#5cac64",
+        "#040404",
+        "#142c1c"
+      ],
+      "size_info": "150x150"
+    },
+    "files": [
+      "logos/kapanfastigheter_se.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#918482",
+      "dominant_colors": [
+        "#5c5454",
+        "#ece4e4",
+        "#746c6c"
+      ],
+      "size_info": "1920x700"
+    },
+    "files": [
+      "logos/pacificinfotech_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#67472c",
+      "dominant_colors": [
+        "#140c04",
+        "#0c0404",
+        "#1c1404"
+      ],
+      "size_info": "1280x492"
+    },
+    "files": [
+      "logos/allianz-kuhlemann_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2c2d3b",
+      "dominant_colors": [
+        "#2c343c",
+        "#040404",
+        "#1c242c"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/adra_sk.png",
+      "logos/bakertilly_ba.png",
+      "logos/bakertillysek_se.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#583921",
+      "dominant_colors": [
+        "#0c0404",
+        "#040404",
+        "#140c04"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/mariagefreres_co_jp.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ac5c44",
+      "dominant_colors": [
+        "#f4b414",
+        "#e4543c",
+        "#040404"
+      ],
+      "size_info": "180x180"
+    },
+    "files": [
+      "logos/attijariwafabank_com_eg.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2a75af",
+      "dominant_colors": [
+        "#04acdc",
+        "#040404",
+        "#049cdc"
+      ],
+      "size_info": "Varies (6 different sizes)"
+    },
+    "files": [
+      "logos/intersport_dk.png",
+      "logos/rsmthailand_com.png",
+      "logos/rsm_lu.png",
+      "logos/habitatmichigan_org.jpeg",
+      "logos/desjoyaux_com_cn.png",
+      "logos/secureparking_co_id.png",
+      "logos/desjoyauxgh_com.png",
+      "logos/secureparkinghi_com.png",
+      "logos/h2oinnovation_mx.png",
+      "logos/habitatstl_org.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#afb5ba",
+      "dominant_colors": [
+        "#a4acb4",
+        "#bcc4c4",
+        "#b4bcc4"
+      ],
+      "size_info": "1600x688"
+    },
+    "files": [
+      "logos/isuzu-vietnam_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#32749a",
+      "dominant_colors": [
+        "#24748c",
+        "#24448c",
+        "#5c94d4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/rexel_it.png",
+      "logos/avispl_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#265671",
+      "dominant_colors": [
+        "#042c3c",
+        "#fcfcfc",
+        "#144c64"
+      ],
+      "size_info": "180x180"
+    },
+    "files": [
+      "logos/faacentrancesolutions_be.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2a314c",
+      "dominant_colors": [
+        "#040404",
+        "#040c04",
+        "#0c0c0c"
+      ],
+      "size_info": "838x440"
+    },
+    "files": [
+      "logos/einhell_fi.png",
+      "logos/einhell_nl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d9535c",
+      "dominant_colors": [
+        "#ec2c34",
+        "#fcfcfc",
+        "#040404"
+      ],
+      "size_info": "402x499"
+    },
+    "files": [
+      "logos/miniso_com_ec.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#484545",
+      "dominant_colors": [
+        "#2c2c2c",
+        "#343434",
+        "#241c1c"
+      ],
+      "size_info": "Varies (5 different sizes)"
+    },
+    "files": [
+      "logos/einhell_com_gr.jpeg",
+      "logos/designpluz_com.webp",
+      "logos/bakertilly_lk.png",
+      "logos/einhell_com_tr.jpeg",
+      "logos/einhell_ba.jpeg",
+      "logos/cfmoto-larissa_gr.png",
+      "logos/mazdavardi_com_co.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#817e81",
+      "dominant_colors": [
+        "#8c8c8c",
+        "#949494",
+        "#948c94"
+      ],
+      "size_info": "589x461"
+    },
+    "files": [
+      "logos/seasonsrehab_in.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4e104c",
+      "dominant_colors": [
+        "#040404",
+        "#0c0404",
+        "#140404"
+      ],
+      "size_info": "1400x787"
+    },
+    "files": [
+      "logos/chip_pl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7192c5",
+      "dominant_colors": [
+        "#0c2c84",
+        "#c4dcfc",
+        "#bcdcfc"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/secom_vn.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#324b9e",
+      "dominant_colors": [
+        "#144494",
+        "#1c448c",
+        "#f4ac1c"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/rotary-bulgaria_org.png",
+      "logos/intersport_com_au.png",
+      "logos/intersport-martinique-guadeloupe_fr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#baad3d",
+      "dominant_colors": [
+        "#049c44",
+        "#e42414",
+        "#040404"
+      ],
+      "size_info": "120x120"
+    },
+    "files": [
+      "logos/menicon_com_au.png",
+      "logos/menicon_sg.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c1957e",
+      "dominant_colors": [
+        "#d4ccc4",
+        "#fcc49c",
+        "#e4e4d4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/bakertilly_lu.jpeg",
+      "logos/bakertilly_es.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4e727d",
+      "dominant_colors": [
+        "#4c6c74",
+        "#0c2c6c",
+        "#e47c24"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/bestdrive_se.png",
+      "logos/svnchicagopm_com.png",
+      "logos/manpowergroup_gr.png",
+      "logos/toyota_com_co.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#63a7a2",
+      "dominant_colors": [
+        "#6c9ccc",
+        "#bcc4cc",
+        "#7ca4cc"
+      ],
+      "size_info": "1024x682"
+    },
+    "files": [
+      "logos/deheus_id.jpeg",
+      "logos/deheus_pl.jpeg",
+      "logos/deheus_pt.jpeg",
+      "logos/deheus_co_in.jpeg",
+      "logos/deheus_rs.jpeg",
+      "logos/de-heus_nl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#99817f",
+      "dominant_colors": [
+        "#949494",
+        "#8c8c8c",
+        "#848484"
+      ],
+      "size_info": "1920x830"
+    },
+    "files": [
+      "logos/servier_es.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9b7d87",
+      "dominant_colors": [
+        "#2c2c2c",
+        "#fcfcfc",
+        "#fcf4f4"
+      ],
+      "size_info": "780x450"
+    },
+    "files": [
+      "logos/einhell_pl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#1e1917",
+      "dominant_colors": [
+        "#1c1414",
+        "#f4f4ec",
+        "#241c1c"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/vendhq_com.png",
+      "logos/lightspeedhq_mx.png",
+      "logos/lightspeedhq_fr.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#778993",
+      "dominant_colors": [
+        "#242424",
+        "#dce4f4",
+        "#1c1c1c"
+      ],
+      "size_info": "1024x683"
+    },
+    "files": [
+      "logos/actemium_pt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#409e56",
+      "dominant_colors": [
+        "#248c4c",
+        "#fcfcfc",
+        "#2c8c54"
+      ],
+      "size_info": "180x180"
+    },
+    "files": [
+      "logos/vbh_cz.png",
+      "logos/vbh_ro.png",
+      "logos/vbh_com_es.png",
+      "logos/vbh_hu.png",
+      "logos/vbh_be.png",
+      "logos/vbh_hr.png",
+      "logos/vbhtrgovina_si.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7a869b",
+      "dominant_colors": [
+        "#94b4d4",
+        "#141c2c",
+        "#84a4cc"
+      ],
+      "size_info": "1387x780"
+    },
+    "files": [
+      "logos/kiatorun_pl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#18a233",
+      "dominant_colors": [
+        "#048c44",
+        "#048444",
+        "#fcfcfc"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/subwaypacific_com.png",
+      "logos/subway-franchise_fr.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#dd9d9d",
+      "dominant_colors": [
+        "#fcf4f4",
+        "#fcfcfc",
+        "#fcfcf4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/toyotadefence_com.jpeg",
+      "logos/toyotasouthern_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5c92a3",
+      "dominant_colors": [
+        "#14649c",
+        "#045ca4",
+        "#0464a4"
+      ],
+      "size_info": "1920x1080"
+    },
+    "files": [
+      "logos/menschenfuermenschen_at.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#332a26",
+      "dominant_colors": [
+        "#141414",
+        "#241c1c",
+        "#1c1c1c"
+      ],
+      "size_info": "480x270"
+    },
+    "files": [
+      "logos/nutrienagsolutions_ca.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4b57c0",
+      "dominant_colors": [
+        "#6c44a4",
+        "#2c8cd4",
+        "#743c9c"
+      ],
+      "size_info": "800x420"
+    },
+    "files": [
+      "logos/ymcaup_org.jpeg",
+      "logos/ymcawaycross_com.jpeg",
+      "logos/ymcaswv_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b2ac96",
+      "dominant_colors": [
+        "#f4ecdc",
+        "#a4a4a4",
+        "#a4a4ac"
+      ],
+      "size_info": "1600x1067"
+    },
+    "files": [
+      "logos/lcvesta_nl.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#716644",
+      "dominant_colors": [
+        "#040404",
+        "#0c0404",
+        "#f4f4f4"
+      ],
+      "size_info": "1920x1440"
+    },
+    "files": [
+      "logos/meggle-group_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b29f26",
+      "dominant_colors": [
+        "#040404",
+        "#c4dc0c",
+        "#0c0c04"
+      ],
+      "size_info": "16x16"
+    },
+    "files": [
+      "logos/compo_de.png",
+      "logos/compo_es.png",
+      "logos/compo-hobby_it.png",
+      "logos/compo_pl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#afcaac",
+      "dominant_colors": [
+        "#f4f4ec",
+        "#e4ece4",
+        "#ececec"
+      ],
+      "size_info": "2000x1414"
+    },
+    "files": [
+      "logos/hofmann-personal_cz.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#918770",
+      "dominant_colors": [
+        "#040404",
+        "#bcbcb4",
+        "#c4c4bc"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/daikin_fi.jpeg",
+      "logos/daikinkuwait_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9d9d9d",
+      "dominant_colors": [
+        "#ececec",
+        "#e4e4e4",
+        "#dcdcdc"
+      ],
+      "size_info": "300x200"
+    },
+    "files": [
+      "logos/cvjm-muensingen_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5a3f3a",
+      "dominant_colors": [
+        "#4c2414",
+        "#040404",
+        "#fcfcfc"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/cinnabon_com_tr.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8b8b4c",
+      "dominant_colors": [
+        "#040404",
+        "#649444",
+        "#c4cc2c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/dahmira_kz.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#51519d",
+      "dominant_colors": [
+        "#34acfc",
+        "#040404",
+        "#2c64f4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/aliaxis_be.png",
+      "logos/aliaxis-me_com.png",
+      "logos/aliaxis_pl.png",
+      "logos/aliaxis_cz.png",
+      "logos/culliganuppercumberland_com.png",
+      "logos/aliaxis_bg.png",
+      "logos/aliaxis_gr.png",
+      "logos/aliaxis_it.png",
+      "logos/aliaxis_hu.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#586428",
+      "dominant_colors": [
+        "#0c7c54",
+        "#040404",
+        "#0c0c04"
+      ],
+      "size_info": "1080x1080"
+    },
+    "files": [
+      "logos/demeter_at.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#92a9d6",
+      "dominant_colors": [
+        "#acccfc",
+        "#acd4fc",
+        "#a4c4f4"
+      ],
+      "size_info": "16x16"
+    },
+    "files": [
+      "logos/kumon_com_co.png",
+      "logos/kumon_com_ar.png",
+      "logos/kumon_com_pe.png",
+      "logos/kumon_com_uy.png",
+      "logos/kumon_cl.png",
+      "logos/kumon_com_bo.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#857190",
+      "dominant_colors": [
+        "#24242c",
+        "#1c1c24",
+        "#ecf4fc"
+      ],
+      "size_info": "1200x800"
+    },
+    "files": [
+      "logos/habitat_hu.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#879ea2",
+      "dominant_colors": [
+        "#dcdcdc",
+        "#e4e4e4",
+        "#d4dcdc"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/daikinafrica_com.jpeg",
+      "logos/atalian_cz.png",
+      "logos/kiamotors_com_co.jpeg",
+      "logos/europcar_rs.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7d95ac",
+      "dominant_colors": [
+        "#acecfc",
+        "#fcfcfc",
+        "#ccdce4"
+      ],
+      "size_info": "698x640"
+    },
+    "files": [
+      "logos/pigtailsandcrewcutsfranchise_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ac9184",
+      "dominant_colors": [
+        "#dcdcd4",
+        "#dcd4d4",
+        "#d4d4d4"
+      ],
+      "size_info": "3840x2160"
+    },
+    "files": [
+      "logos/bbraun_be.jpeg",
+      "logos/bbraun_com_my.jpeg",
+      "logos/bbraun_co_uk.jpeg",
+      "logos/bbraun_nl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#53445a",
+      "dominant_colors": [
+        "#040404",
+        "#3c343c",
+        "#0c0c0c"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/cfmotobenelux_eu.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#33677e",
+      "dominant_colors": [
+        "#040c0c",
+        "#040c04",
+        "#74b4cc"
+      ],
+      "size_info": "370x115"
+    },
+    "files": [
+      "logos/sourceadvisors_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#99b0bd",
+      "dominant_colors": [
+        "#ececec",
+        "#94b4c4",
+        "#8cacc4"
+      ],
+      "size_info": "1920x519"
+    },
+    "files": [
+      "logos/bbraun_ca.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4cc6d3",
+      "dominant_colors": [
+        "#5cd4d4",
+        "#54ccd4",
+        "#4cc4d4"
+      ],
+      "size_info": "512x269"
+    },
+    "files": [
+      "logos/globalconnect_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#639678",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#f4fcf4",
+        "#fcfcf4"
+      ],
+      "size_info": "800x600"
+    },
+    "files": [
+      "logos/berlitz-dublin_ie.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2fa25d",
+      "dominant_colors": [
+        "#4c6c74",
+        "#049434",
+        "#fcc40c"
+      ],
+      "size_info": "127x26"
+    },
+    "files": [
+      "logos/subwayfrance_fr.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c28cbe",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#243484",
+        "#040404"
+      ],
+      "size_info": "915x814"
+    },
+    "files": [
+      "logos/aeccglobal_co_th.webp",
+      "logos/aeccglobal_sg.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#846462",
+      "dominant_colors": [
+        "#141414",
+        "#1c1c1c",
+        "#0c0c0c"
+      ],
+      "size_info": "2500x1667"
+    },
+    "files": [
+      "logos/century21viaplus_be.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#728b91",
+      "dominant_colors": [
+        "#847c7c",
+        "#b4cce4",
+        "#c4d4e4"
+      ],
+      "size_info": "2560x1244"
+    },
+    "files": [
+      "logos/overheaddoorofterrehaute_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#1616c0",
+      "dominant_colors": [
+        "#040ccc",
+        "#040cd4",
+        "#0c0cd4"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/shercomotorcycles_it.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#0a8a28",
+      "dominant_colors": [
+        "#047434",
+        "#047c5c",
+        "#0c8464"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/subway_co_id.jpeg",
+      "logos/adra_ca.jpeg",
+      "logos/spitex-buchs_ch.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2b2e42",
+      "dominant_colors": [
+        "#140c0c",
+        "#141414",
+        "#1c1c24"
+      ],
+      "size_info": "1920x1280"
+    },
+    "files": [
+      "logos/aquatherm-belux_be.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#392868",
+      "dominant_colors": [
+        "#141c4c",
+        "#14145c",
+        "#040404"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/freeportwestselfstorage_com.png",
+      "logos/cinnabonrussia_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d9bca0",
+      "dominant_colors": [
+        "#e4dcd4",
+        "#dcdcd4",
+        "#f4f4f4"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/landish_ca.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ea6b80",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#e40424",
+        "#dc0424"
+      ],
+      "size_info": "100x100"
+    },
+    "files": [
+      "logos/pirtek_se.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#49445e",
+      "dominant_colors": [
+        "#040404",
+        "#343c6c",
+        "#3c4474"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/gs1sk_org.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6e573f",
+      "dominant_colors": [
+        "#040404",
+        "#0c0404",
+        "#0c0c04"
+      ],
+      "size_info": "557x300"
+    },
+    "files": [
+      "logos/gulf_lu.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4c4c58",
+      "dominant_colors": [
+        "#040404",
+        "#141414",
+        "#1c1c1c"
+      ],
+      "size_info": "800x400"
+    },
+    "files": [
+      "logos/europcar_me.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#bb8592",
+      "dominant_colors": [
+        "#ccbcc4",
+        "#dcccd4",
+        "#d4c4cc"
+      ],
+      "size_info": "1024x270"
+    },
+    "files": [
+      "logos/goliathgames_es.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#514c65",
+      "dominant_colors": [
+        "#141c24",
+        "#0c1414",
+        "#4c343c"
+      ],
+      "size_info": "1440x900"
+    },
+    "files": [
+      "logos/novonordisk_my.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9cc7d2",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#f4fcfc",
+        "#bcccdc"
+      ],
+      "size_info": "1920x800"
+    },
+    "files": [
+      "logos/bbraun_com_tw.jpeg",
+      "logos/bbraun_ph.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5563c4",
+      "dominant_colors": [
+        "#3444bc",
+        "#3444b4",
+        "#3c44bc"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/decathlon-karriere_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7d4939",
+      "dominant_colors": [
+        "#94141c",
+        "#040404",
+        "#840c14"
+      ],
+      "size_info": "1920x1080"
+    },
+    "files": [
+      "logos/smittysmb_ca.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a09444",
+      "dominant_colors": [
+        "#040404",
+        "#e4e4e4",
+        "#7c7474"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/santillana_com_ec.webp",
+      "logos/santillana_com_co.webp",
+      "logos/santillana_com_ar.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9c6f70",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#fcfcf4",
+        "#04040c"
+      ],
+      "size_info": "1600x1026"
+    },
+    "files": [
+      "logos/berlitz-bahrain_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4c7c6e",
+      "dominant_colors": [
+        "#040404",
+        "#8c8474",
+        "#5c5c5c"
+      ],
+      "size_info": "1920x1427"
+    },
+    "files": [
+      "logos/solutions30_nl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2a6e3c",
+      "dominant_colors": [
+        "#043c4c",
+        "#042c3c",
+        "#04544c"
+      ],
+      "size_info": "1831x1221"
+    },
+    "files": [
+      "logos/bakertilly_mu.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6a3863",
+      "dominant_colors": [
+        "#04040c",
+        "#040404",
+        "#0c0c0c"
+      ],
+      "size_info": "768x435"
+    },
+    "files": [
+      "logos/aamcoindependencemo_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#754c62",
+      "dominant_colors": [
+        "#5c6c84",
+        "#3c4c64",
+        "#5c647c"
+      ],
+      "size_info": "1280x960"
+    },
+    "files": [
+      "logos/heliosstrategia_pl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5b7b75",
+      "dominant_colors": [
+        "#8c9494",
+        "#8c949c",
+        "#7c8c94"
+      ],
+      "size_info": "1084x610"
+    },
+    "files": [
+      "logos/veolia_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#3286a4",
+      "dominant_colors": [
+        "#3484b4",
+        "#2c7cb4",
+        "#3c8cac"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/manpowergroup_cz.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#555f63",
+      "dominant_colors": [
+        "#1c1c1c",
+        "#141414",
+        "#343434"
+      ],
+      "size_info": "1200x1000"
+    },
+    "files": [
+      "logos/komoder_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#938960",
+      "dominant_colors": [
+        "#5c6c34",
+        "#64743c",
+        "#4c444c"
+      ],
+      "size_info": "1080x583"
+    },
+    "files": [
+      "logos/santanderconsumer_se.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#3c5b89",
+      "dominant_colors": [
+        "#142434",
+        "#14243c",
+        "#4c64a4"
+      ],
+      "size_info": "4000x2667"
+    },
+    "files": [
+      "logos/bakertilly_gt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#39399b",
+      "dominant_colors": [
+        "#04047c",
+        "#343494",
+        "#24248c"
+      ],
+      "size_info": "90x37"
+    },
+    "files": [
+      "logos/platingsystems_info.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d0b3c2",
+      "dominant_colors": [
+        "#f4e4e4",
+        "#fcfcfc",
+        "#ece4e4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/moore_es.jpeg",
+      "logos/servier_nl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#302755",
+      "dominant_colors": [
+        "#0c1424",
+        "#14142c",
+        "#0c1434"
+      ],
+      "size_info": "1173x660"
+    },
+    "files": [
+      "logos/adecco_com_sg.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#262983",
+      "dominant_colors": [
+        "#0c1c64",
+        "#fcfcfc",
+        "#747ca4"
+      ],
+      "size_info": "350x138"
+    },
+    "files": [
+      "logos/algeco_ro.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2f513a",
+      "dominant_colors": [
+        "#249c8c",
+        "#040404",
+        "#1c8c84"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/kamic_fi.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#825d8d",
+      "dominant_colors": [
+        "#bcbccc",
+        "#c4c4d4",
+        "#b4b4c4"
+      ],
+      "size_info": "1440x960"
+    },
+    "files": [
+      "logos/savethechildren_or_id.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#797c92",
+      "dominant_colors": [
+        "#040404",
+        "#fcfcfc",
+        "#e4ece4"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/xwiftracingevents_be.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7e7e1d",
+      "dominant_colors": [
+        "#040404",
+        "#0c0404",
+        "#6cbc2c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/santillana_com_uy.webp",
+      "logos/santillana_com_pa.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#bbc0c0",
+      "dominant_colors": [
+        "#ececec",
+        "#e4e4e4",
+        "#9ca4a4"
+      ],
+      "size_info": "2000x1328"
+    },
+    "files": [
+      "logos/bbraun_lt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2b2a29",
+      "dominant_colors": [
+        "#1c1c1c",
+        "#040404",
+        "#444444"
+      ],
+      "size_info": "16x16"
+    },
+    "files": [
+      "logos/movingstarsinc_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8a9252",
+      "dominant_colors": [
+        "#ccdcdc",
+        "#fcfcf4",
+        "#e4ece4"
+      ],
+      "size_info": "500x333"
+    },
+    "files": [
+      "logos/demeter_ch.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7eb6e7",
+      "dominant_colors": [
+        "#94dcf4",
+        "#84ccec",
+        "#fcfcfc"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/gulf-japan_com.png",
+      "logos/paybase_netlify_app.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a70d22",
+      "dominant_colors": [
+        "#7c040c",
+        "#e40414",
+        "#746c6c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/yonyou_com_hk.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6db1c6",
+      "dominant_colors": [
+        "#7cd4dc",
+        "#fcfcfc",
+        "#84bcdc"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/servier_com_pa.png",
+      "logos/tupperwarefiesta_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#755149",
+      "dominant_colors": [
+        "#140c0c",
+        "#1c1414",
+        "#0c0c0c"
+      ],
+      "size_info": "1920x1281"
+    },
+    "files": [
+      "logos/aamcoutah_com.jpg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6e8952",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#f4f4f4",
+        "#b4b4ac"
+      ],
+      "size_info": "1280x492"
+    },
+    "files": [
+      "logos/allianz-peev_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#442e23",
+      "dominant_colors": [
+        "#040404",
+        "#c4b484",
+        "#0c0404"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/domcortraffic_ca.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#846d63",
+      "dominant_colors": [
+        "#040404",
+        "#ecd4ac",
+        "#fcac04"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/whisky_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#607b8b",
+      "dominant_colors": [
+        "#8cacc4",
+        "#84a4bc",
+        "#0c141c"
+      ],
+      "size_info": "1500x400"
+    },
+    "files": [
+      "logos/renault_jo.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5f9759",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#fcfcf4",
+        "#f4f4ec"
+      ],
+      "size_info": "4000x2667"
+    },
+    "files": [
+      "logos/bakertillygh_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#563831",
+      "dominant_colors": [
+        "#040404",
+        "#04040c",
+        "#040c0c"
+      ],
+      "size_info": "450x161"
+    },
+    "files": [
+      "logos/linexaus_com_au.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8a6254",
+      "dominant_colors": [
+        "#040c14",
+        "#f4ecdc",
+        "#fcf4f4"
+      ],
+      "size_info": "2000x1334"
+    },
+    "files": [
+      "logos/veolia_es.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#3a577c",
+      "dominant_colors": [
+        "#041424",
+        "#041c2c",
+        "#040c1c"
+      ],
+      "size_info": "1920x1280"
+    },
+    "files": [
+      "logos/bakertilly_ng.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#71648b",
+      "dominant_colors": [
+        "#3c444c",
+        "#4c545c",
+        "#e4e4e4"
+      ],
+      "size_info": "1440x640"
+    },
+    "files": [
+      "logos/carglass_hu.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6565e1",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#24bcdc",
+        "#1c4cc4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/petercem-sensors_com.png",
+      "logos/ubicast_tv.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#3d4538",
+      "dominant_colors": [
+        "#1c241c",
+        "#1c1c1c",
+        "#242424"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/maxus-norddeutschland_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#33353f",
+      "dominant_colors": [
+        "#3c444c",
+        "#040404",
+        "#0c0c0c"
+      ],
+      "size_info": "637x637"
+    },
+    "files": [
+      "logos/toyota-rambouillet_fr.png",
+      "logos/toyota-evreux_fr.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a5bdaa",
+      "dominant_colors": [
+        "#e4ecf4",
+        "#d4dcd4",
+        "#c4c4ac"
+      ],
+      "size_info": "1921x519"
+    },
+    "files": [
+      "logos/bbraun_co_in.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7b593b",
+      "dominant_colors": [
+        "#e4dcd4",
+        "#ece4dc",
+        "#1c1414"
+      ],
+      "size_info": "2560x1706"
+    },
+    "files": [
+      "logos/habitatns_ca.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b898a1",
+      "dominant_colors": [
+        "#ccc4cc",
+        "#d4ccd4",
+        "#c4bcc4"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/meggle-bakery_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#704c43",
+      "dominant_colors": [
+        "#0c0c14",
+        "#0c141c",
+        "#0c0c1c"
+      ],
+      "size_info": "1600x667"
+    },
+    "files": [
+      "logos/seats2meetstationdenbosch_nl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d3bca9",
+      "dominant_colors": [
+        "#dcd4d4",
+        "#f4f4f4",
+        "#f4f4ec"
+      ],
+      "size_info": "4800x2700"
+    },
+    "files": [
+      "logos/takedaoncology_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#dfe6ce",
+      "dominant_colors": [
+        "#d4d4d4",
+        "#dcdcdc",
+        "#cccccc"
+      ],
+      "size_info": "1536x1024"
+    },
+    "files": [
+      "logos/annotext_de.jpeg",
+      "logos/genya_it.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c15c60",
+      "dominant_colors": [
+        "#ec3c44",
+        "#040404",
+        "#ec4444"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/salvationarmyeet_org.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c8c8a9",
+      "dominant_colors": [
+        "#9c9474",
+        "#fcfcfc",
+        "#a49c7c"
+      ],
+      "size_info": "1280x492"
+    },
+    "files": [
+      "logos/sekulin-allianz_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#75b6d6",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#042c6c",
+        "#1494c4"
+      ],
+      "size_info": "2560x1421"
+    },
+    "files": [
+      "logos/gs1tn_org.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#64bf67",
+      "dominant_colors": [
+        "#f4f4fc",
+        "#f4fcfc",
+        "#ecf4f4"
+      ],
+      "size_info": "7008x4672"
+    },
+    "files": [
+      "logos/statkraft_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#464442",
+      "dominant_colors": [
+        "#444444"
+      ],
+      "size_info": "96x96"
+    },
+    "files": [
+      "logos/cvjm-muenchberg_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8d9f5d",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#244c2c",
+        "#9cbc34"
+      ],
+      "size_info": "16x16"
+    },
+    "files": [
+      "logos/deprag_cz.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#896558",
+      "dominant_colors": [
+        "#b4b4bc",
+        "#5c4c3c",
+        "#544434"
+      ],
+      "size_info": "2560x1707"
+    },
+    "files": [
+      "logos/goliathgames_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c7dacc",
+      "dominant_colors": [
+        "#ecf4ec",
+        "#dcdcdc",
+        "#d4d4d4"
+      ],
+      "size_info": "1758x989"
+    },
+    "files": [
+      "logos/greatplacetowork_pt.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#bd64c7",
+      "dominant_colors": [
+        "#9cd4f4",
+        "#ecb4bc",
+        "#fcd454"
+      ],
+      "size_info": "6000x1563"
+    },
+    "files": [
+      "logos/bbraun_pt.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b05781",
+      "dominant_colors": [
+        "#942484",
+        "#942c7c",
+        "#fcfcfc"
+      ],
+      "size_info": "1800x766"
+    },
+    "files": [
+      "logos/amnestyghana_org.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#797878",
+      "dominant_colors": [
+        "#9c9c9c",
+        "#a4a4a4",
+        "#949494"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/arkaybeverages_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2f1752",
+      "dominant_colors": [
+        "#2c144c",
+        "#fcfcfc",
+        "#a46cfc"
+      ],
+      "size_info": "1200x627"
+    },
+    "files": [
+      "logos/grantthornton_co_im.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#636b88",
+      "dominant_colors": [
+        "#bcd4ec",
+        "#4c444c",
+        "#b4ccec"
+      ],
+      "size_info": "292x310"
+    },
+    "files": [
+      "logos/veolia_nl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9284ba",
+      "dominant_colors": [
+        "#aca4ac",
+        "#6c94e4",
+        "#bcb4bc"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/wurth_rs.jpeg",
+      "logos/wurth_com_mk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5d7989",
+      "dominant_colors": [
+        "#344c5c",
+        "#9cb4cc",
+        "#2c444c"
+      ],
+      "size_info": "1920x800"
+    },
+    "files": [
+      "logos/mazda_ph.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#23607e",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#2c7ca4",
+        "#042c3c"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/tridentseafoods_jp.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#917b71",
+      "dominant_colors": [
+        "#c4bcbc",
+        "#c4c4bc",
+        "#c4c4c4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/mateco-hungary_hu.jpeg",
+      "logos/nextbikeczech_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6b647e",
+      "dominant_colors": [
+        "#8c8c9c",
+        "#8c949c",
+        "#0c0c14"
+      ],
+      "size_info": "2500x1680"
+    },
+    "files": [
+      "logos/humanasecondhand_se.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#508a5f",
+      "dominant_colors": [
+        "#9cb4bc",
+        "#94b4bc",
+        "#8cacbc"
+      ],
+      "size_info": "2560x1662"
+    },
+    "files": [
+      "logos/unitecnica-us_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#434b79",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#445c84",
+        "#042c5c"
+      ],
+      "size_info": "981x500"
+    },
+    "files": [
+      "logos/hyundaiofchatham_ca.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#94806e",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#040404",
+        "#cccccc"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/linde-amt_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#986c8c",
+      "dominant_colors": [
+        "#c4a4bc",
+        "#d4b4c4",
+        "#bca4c4"
+      ],
+      "size_info": "1440x561"
+    },
+    "files": [
+      "logos/tgmresearch_vn.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#41526f",
+      "dominant_colors": [
+        "#0c141c",
+        "#040404",
+        "#141c24"
+      ],
+      "size_info": "2560x1659"
+    },
+    "files": [
+      "logos/lamborghini-berlin_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#40464c",
+      "dominant_colors": [
+        "#242424",
+        "#24242c",
+        "#cce4ec"
+      ],
+      "size_info": "1366x600"
+    },
+    "files": [
+      "logos/toyotahonduras_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#1d1a27",
+      "dominant_colors": [
+        "#0c0c14",
+        "#fcfcfc",
+        "#0c0c0c"
+      ],
+      "size_info": "696x696"
+    },
+    "files": [
+      "logos/tbwa_co_nz.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#967f7e",
+      "dominant_colors": [
+        "#acacac",
+        "#b4b4ac",
+        "#b4b4b4"
+      ],
+      "size_info": "1280x492"
+    },
+    "files": [
+      "logos/allianz-sebastiankoch_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#586894",
+      "dominant_colors": [
+        "#649ce4",
+        "#5c9ce4",
+        "#4c5c84"
+      ],
+      "size_info": "1920x1280"
+    },
+    "files": [
+      "logos/kiacadca_sk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#1a3ba6",
+      "dominant_colors": [
+        "#0c2ca4",
+        "#0c2c9c",
+        "#1434a4"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/brother_co_il.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9f8370",
+      "dominant_colors": [
+        "#ac947c",
+        "#ecdccc",
+        "#bca484"
+      ],
+      "size_info": "882x430"
+    },
+    "files": [
+      "logos/thelab_id.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#91c2db",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#f4fcfc",
+        "#045cac"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/furuno_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#48304d",
+      "dominant_colors": [
+        "#040404",
+        "#2c2c2c",
+        "#04040c"
+      ],
+      "size_info": "2000x1357"
+    },
+    "files": [
+      "logos/wingarc_com_au.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5e753a",
+      "dominant_colors": [
+        "#ececf4",
+        "#141c0c",
+        "#242c14"
+      ],
+      "size_info": "1000x525"
+    },
+    "files": [
+      "logos/adfc-radtourismus_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#617278",
+      "dominant_colors": [
+        "#1c1c1c",
+        "#f4f4fc",
+        "#242424"
+      ],
+      "size_info": "5184x3456"
+    },
+    "files": [
+      "logos/statkraft_com_pe.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#cb5612",
+      "dominant_colors": [
+        "#d41c24",
+        "#f4cc04",
+        "#d41424"
+      ],
+      "size_info": "275x64"
+    },
+    "files": [
+      "logos/rjelinek_cl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b1a397",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#f4f4fc",
+        "#f4f4f4"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/culliganredwing_com.jpeg",
+      "logos/overheaddoorfayetteville_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#504b4e",
+      "dominant_colors": [
+        "#4c4c4c",
+        "#444444",
+        "#3c3c3c"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/tbwa_co_za.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a98fb4",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#4c445c",
+        "#8c9cb4"
+      ],
+      "size_info": "1900x440"
+    },
+    "files": [
+      "logos/alten-consulting_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#406676",
+      "dominant_colors": [
+        "#040c14",
+        "#2c3c44",
+        "#04141c"
+      ],
+      "size_info": "486x512"
+    },
+    "files": [
+      "logos/hyundai_ge.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#708053",
+      "dominant_colors": [
+        "#acbccc",
+        "#8c9c5c",
+        "#849454"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/demeter_it.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#183552",
+      "dominant_colors": [
+        "#0c1c34",
+        "#0c1c2c",
+        "#0c243c"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/castsoftware_it.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9c6668",
+      "dominant_colors": [
+        "#8cbcfc",
+        "#7cb4f4",
+        "#84bcfc"
+      ],
+      "size_info": "1200x679"
+    },
+    "files": [
+      "logos/berlitz-augsburg_de.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#783744",
+      "dominant_colors": [
+        "#040404",
+        "#0c0c0c",
+        "#0c1424"
+      ],
+      "size_info": "730x546"
+    },
+    "files": [
+      "logos/renaultrycauto_es.png",
+      "logos/renaultchiva_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d1e2de",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#c4dcdc",
+        "#d4e4e4"
+      ],
+      "size_info": "4613x3023"
+    },
+    "files": [
+      "logos/bbraun_dk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#222143",
+      "dominant_colors": [
+        "#040404",
+        "#1c345c",
+        "#0c2444"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/myron_ca.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5d595c",
+      "dominant_colors": [
+        "#040404",
+        "#4c4c4c",
+        "#444444"
+      ],
+      "size_info": "300x270"
+    },
+    "files": [
+      "logos/culliganreno_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2d2e33",
+      "dominant_colors": [
+        "#04040c",
+        "#040404",
+        "#0c0c0c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/renault-argenteuil_fr.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8e6e59",
+      "dominant_colors": [
+        "#746c6c",
+        "#7c7474",
+        "#847c7c"
+      ],
+      "size_info": "1200x799"
+    },
+    "files": [
+      "logos/worldvision_org_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#97c166",
+      "dominant_colors": [
+        "#84c444",
+        "#fcfcfc",
+        "#4c6c74"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/crocs_cl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5b837a",
+      "dominant_colors": [
+        "#bcd4ec",
+        "#bcdcec",
+        "#c4dcec"
+      ],
+      "size_info": "1084x417"
+    },
+    "files": [
+      "logos/allianz-genc_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c46856",
+      "dominant_colors": [
+        "#dc747c",
+        "#dc7c6c",
+        "#c46c44"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/renault_no.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#682713",
+      "dominant_colors": [
+        "#040404",
+        "#fc7c1c",
+        "#0c0404"
+      ],
+      "size_info": "1200x600"
+    },
+    "files": [
+      "logos/lamborghinimontreal_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7c90af",
+      "dominant_colors": [
+        "#949c9c",
+        "#e45404",
+        "#cc6434"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/stockco_co_nz.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9b9eb3",
+      "dominant_colors": [
+        "#dcdcdc",
+        "#d4dce4",
+        "#ccd4dc"
+      ],
+      "size_info": "4813x3213"
+    },
+    "files": [
+      "logos/bbraun_com_vn.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8eacc7",
+      "dominant_colors": [
+        "#acd4f4",
+        "#b4d4f4",
+        "#9cccf4"
+      ],
+      "size_info": "1200x627"
+    },
+    "files": [
+      "logos/crif_com_tr.jpeg",
+      "logos/crif_ch.jpeg",
+      "logos/crif_pl.jpeg",
+      "logos/crif_hk.jpeg",
+      "logos/crif_sk.jpeg",
+      "logos/crif_cz.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#301839",
+      "dominant_colors": [
+        "#040464",
+        "#040404",
+        "#04041c"
+      ],
+      "size_info": "150x150"
+    },
+    "files": [
+      "logos/globalconnectgroup_com.png",
+      "logos/globalconnect_dk.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a5bbce",
+      "dominant_colors": [
+        "#f4f4f4",
+        "#fcfcfc",
+        "#8cccec"
+      ],
+      "size_info": "1000x1248"
+    },
+    "files": [
+      "logos/solatube_pt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#925249",
+      "dominant_colors": [
+        "#040404",
+        "#fcfcfc",
+        "#04040c"
+      ],
+      "size_info": "1920x1119"
+    },
+    "files": [
+      "logos/greatplacetowork_is.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2e1f30",
+      "dominant_colors": [
+        "#0c0c0c",
+        "#040404",
+        "#04040c"
+      ],
+      "size_info": "368x207"
+    },
+    "files": [
+      "logos/meyersound_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c1aa8f",
+      "dominant_colors": [
+        "#ccb49c",
+        "#ccbca4",
+        "#c4b49c"
+      ],
+      "size_info": "960x536"
+    },
+    "files": [
+      "logos/roca_co_id.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#866356",
+      "dominant_colors": [
+        "#04242c",
+        "#0c242c",
+        "#3c3c3c"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/tchibo_cz.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#859fb1",
+      "dominant_colors": [
+        "#c4ecfc",
+        "#b4e4fc",
+        "#bce4fc"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/veka_bg.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8f7843",
+      "dominant_colors": [
+        "#fccc2c",
+        "#040404",
+        "#44744c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/trulynolennatal_com_br.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7f5e57",
+      "dominant_colors": [
+        "#1c1414",
+        "#141414",
+        "#dcdce4"
+      ],
+      "size_info": "2560x1707"
+    },
+    "files": [
+      "logos/amnesty_org_ng.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#e7e0e8",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#bcbcbc",
+        "#c4c4c4"
+      ],
+      "size_info": "1024x1024"
+    },
+    "files": [
+      "logos/servier_at.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#659178",
+      "dominant_colors": [
+        "#acccd4",
+        "#a4c4cc",
+        "#2c3c3c"
+      ],
+      "size_info": "1280x853"
+    },
+    "files": [
+      "logos/kia_pt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#0c16a9",
+      "dominant_colors": [
+        "#14049c",
+        "#1404a4",
+        "#1c0cc4"
+      ],
+      "size_info": "1536x1024"
+    },
+    "files": [
+      "logos/wolterskluwer_dk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6c5934",
+      "dominant_colors": [
+        "#040404",
+        "#243404",
+        "#2c4404"
+      ],
+      "size_info": "1200x466"
+    },
+    "files": [
+      "logos/freseniuskidneycare_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c7c8d3",
+      "dominant_colors": [
+        "#dcdce4",
+        "#d4d4dc",
+        "#ccccd4"
+      ],
+      "size_info": "2560x1707"
+    },
+    "files": [
+      "logos/affidea_ba.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#30b584",
+      "dominant_colors": [
+        "#04ac7c",
+        "#fcfcfc",
+        "#04a47c"
+      ],
+      "size_info": "9000x2250"
+    },
+    "files": [
+      "logos/bbraun_co_th.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#757e6b",
+      "dominant_colors": [
+        "#c4c4c4",
+        "#cccccc",
+        "#d4d4d4"
+      ],
+      "size_info": "890x668"
+    },
+    "files": [
+      "logos/titancontainers_com_tr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a7a79b",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#b4b4ac",
+        "#bcbcbc"
+      ],
+      "size_info": "460x259"
+    },
+    "files": [
+      "logos/daikin_ru.jpeg",
+      "logos/daikin_az.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6d3632",
+      "dominant_colors": [
+        "#0c0404",
+        "#140404",
+        "#441c14"
+      ],
+      "size_info": "1024x682"
+    },
+    "files": [
+      "logos/msd-animal-health_be.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#62b88a",
+      "dominant_colors": [
+        "#84d4b4",
+        "#fcfcfc",
+        "#84dcb4"
+      ],
+      "size_info": "16x16"
+    },
+    "files": [
+      "logos/starbucks_com_sg.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#004237",
+      "dominant_colors": [
+        "#044434"
+      ],
+      "size_info": "205x195"
+    },
+    "files": [
+      "logos/thebodyshop_bg.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#769fbf",
+      "dominant_colors": [
+        "#0474ec",
+        "#047cec",
+        "#048cf4"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/bakertilly_sg.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8fa287",
+      "dominant_colors": [
+        "#d4ccc4",
+        "#ccc4bc",
+        "#d4cccc"
+      ],
+      "size_info": "1080x556"
+    },
+    "files": [
+      "logos/edenred_fi.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#0d3b56",
+      "dominant_colors": [
+        "#0c2c4c",
+        "#04142c",
+        "#04243c"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/rsmcanada_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#efad57",
+      "dominant_colors": [
+        "#ecb444",
+        "#fcfcfc",
+        "#ecb43c"
+      ],
+      "size_info": "180x180"
+    },
+    "files": [
+      "logos/vetpartners_fr.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7e5c4e",
+      "dominant_colors": [
+        "#34241c",
+        "#1c140c",
+        "#2c1c14"
+      ],
+      "size_info": "1440x600"
+    },
+    "files": [
+      "logos/savethechildren_org_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#1e1a1c",
+      "dominant_colors": [
+        "#1c1c1c",
+        "#242424",
+        "#2c2c2c"
+      ],
+      "size_info": "850x531"
+    },
+    "files": [
+      "logos/renault_pe.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#141038",
+      "dominant_colors": [
+        "#0c0424",
+        "#0c042c",
+        "#040424"
+      ],
+      "size_info": "640x360"
+    },
+    "files": [
+      "logos/kiairaqnim_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#71433b",
+      "dominant_colors": [
+        "#040404",
+        "#fcfcfc",
+        "#0c0404"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/cfmoto_com_br.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a88660",
+      "dominant_colors": [
+        "#f4cc5c",
+        "#040404",
+        "#1c1c1c"
+      ],
+      "size_info": "230x230"
+    },
+    "files": [
+      "logos/papasaveriospizzeria_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2a4d42",
+      "dominant_colors": [
+        "#1c342c",
+        "#1c3c34",
+        "#fcfcfc"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/starbucks_co_nz.jpeg",
+      "logos/rubiomonocoatusa_com.jpeg",
+      "logos/rubiomonocoat_com_pl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#60be31",
+      "dominant_colors": [
+        "#049424",
+        "#fcc40c",
+        "#fcfcfc"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/subway_ru.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#979480",
+      "dominant_colors": [
+        "#ccbca4",
+        "#7c7c74",
+        "#6c6c64"
+      ],
+      "size_info": "2048x768"
+    },
+    "files": [
+      "logos/kind-der-stadt_at.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#507063",
+      "dominant_colors": [
+        "#4c7474",
+        "#446c6c",
+        "#3c6464"
+      ],
+      "size_info": "1920x1322"
+    },
+    "files": [
+      "logos/bakertilly_pt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#307e8e",
+      "dominant_colors": [
+        "#042c4c",
+        "#043454",
+        "#048c9c"
+      ],
+      "size_info": "1470x980"
+    },
+    "files": [
+      "logos/bakertilly_no.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4e3573",
+      "dominant_colors": [
+        "#040404",
+        "#1cd4bc",
+        "#4404a4"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/bauermedia_no.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#423359",
+      "dominant_colors": [
+        "#2c2c7c",
+        "#040404",
+        "#34347c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/telehouse_co_th.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a08b7a",
+      "dominant_colors": [
+        "#b4b4ac",
+        "#acacac",
+        "#acaca4"
+      ],
+      "size_info": "1528x2048"
+    },
+    "files": [
+      "logos/louisdepoorterestore_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#589546",
+      "dominant_colors": [
+        "#44744c",
+        "#54a414",
+        "#fcfcfc"
+      ],
+      "size_info": "256x256"
+    },
+    "files": [
+      "logos/benu_nl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#406566",
+      "dominant_colors": [
+        "#1c3c3c",
+        "#fcfcfc",
+        "#f4f4f4"
+      ],
+      "size_info": "280x53"
+    },
+    "files": [
+      "logos/lamannamovingny_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b7ae5c",
+      "dominant_colors": [
+        "#ccb454",
+        "#fcfcfc",
+        "#246464"
+      ],
+      "size_info": "107x90"
+    },
+    "files": [
+      "logos/regalsprings_com_mx.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#39341f",
+      "dominant_colors": [
+        "#040404",
+        "#047c64",
+        "#04342c"
+      ],
+      "size_info": "454x318"
+    },
+    "files": [
+      "logos/adra_nl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#665063",
+      "dominant_colors": [
+        "#242424",
+        "#14141c",
+        "#1c1c1c"
+      ],
+      "size_info": "600x300"
+    },
+    "files": [
+      "logos/bestdrive_ie.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ca5656",
+      "dominant_colors": [
+        "#dc4444",
+        "#040404",
+        "#d44444"
+      ],
+      "size_info": "16x16"
+    },
+    "files": [
+      "logos/cdltresrios_com_br.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#306775",
+      "dominant_colors": [
+        "#143c3c",
+        "#1c4444",
+        "#1c443c"
+      ],
+      "size_info": "531x378"
+    },
+    "files": [
+      "logos/mercyships_ch.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9a796b",
+      "dominant_colors": [
+        "#34241c",
+        "#ecdccc",
+        "#ecdcd4"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/bakertilly_site.jpeg",
+      "logos/bakertilly_ci.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#87a5c3",
+      "dominant_colors": [
+        "#ccd4dc",
+        "#d4dce4",
+        "#fcfcfc"
+      ],
+      "size_info": "1200x627"
+    },
+    "files": [
+      "logos/intersport-lesrousses_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#689f96",
+      "dominant_colors": [
+        "#d4e4f4",
+        "#dcdcdc",
+        "#d4d4d4"
+      ],
+      "size_info": "1920x1080"
+    },
+    "files": [
+      "logos/desjoyaux_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#9ec353",
+      "dominant_colors": [
+        "#84bc44",
+        "#fcfcfc",
+        "#ecf4e4"
+      ],
+      "size_info": "293x293"
+    },
+    "files": [
+      "logos/crocs_co_id.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#875e84",
+      "dominant_colors": [
+        "#fcd4b4",
+        "#fcecc4",
+        "#fcdcbc"
+      ],
+      "size_info": "2090x1176"
+    },
+    "files": [
+      "logos/hondasevilla_net.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#393ebb",
+      "dominant_colors": [
+        "#0414bc",
+        "#0c1cbc",
+        "#3c4ccc"
+      ],
+      "size_info": "97x86"
+    },
+    "files": [
+      "logos/plameco-hannover_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#bc1027",
+      "dominant_colors": [
+        "#cc0424",
+        "#ac041c",
+        "#b4041c"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/cimbbank_com_vn.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#63768c",
+      "dominant_colors": [
+        "#242c34",
+        "#d4d4d4",
+        "#b4ccd4"
+      ],
+      "size_info": "1000x300"
+    },
+    "files": [
+      "logos/secureparking_com_kh.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#92a57c",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#dce4e4",
+        "#d4dcdc"
+      ],
+      "size_info": "1024x512"
+    },
+    "files": [
+      "logos/howdentiger_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#56bac9",
+      "dominant_colors": [
+        "#84dcf4",
+        "#24bce4",
+        "#044c84"
+      ],
+      "size_info": "1200x1201"
+    },
+    "files": [
+      "logos/statkraftvarme_no.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#866b63",
+      "dominant_colors": [
+        "#040404",
+        "#848484",
+        "#8c8c8c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/pakuacanada_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#1f72b1",
+      "dominant_colors": [
+        "#0c5c9c",
+        "#04245c",
+        "#042454"
+      ],
+      "size_info": "400x400"
+    },
+    "files": [
+      "logos/asieris_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2240ba",
+      "dominant_colors": [
+        "#0434ac",
+        "#2444c4",
+        "#042cbc"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/plameco-baer_de.png",
+      "logos/plameco-rheinsieg_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#92966b",
+      "dominant_colors": [
+        "#1c2c44",
+        "#142434",
+        "#ac9c7c"
+      ],
+      "size_info": "1303x353"
+    },
+    "files": [
+      "logos/bbraun_co_kr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#506561",
+      "dominant_colors": [
+        "#444c54",
+        "#3c4454",
+        "#3c444c"
+      ],
+      "size_info": "2000x1600"
+    },
+    "files": [
+      "logos/veolia_be.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b0ae6c",
+      "dominant_colors": [
+        "#fcfc94",
+        "#fcf494",
+        "#fcfc9c"
+      ],
+      "size_info": "600x315"
+    },
+    "files": [
+      "logos/daikincareers_com.jpg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#688c50",
+      "dominant_colors": [
+        "#bccce4",
+        "#b4c4dc",
+        "#acbcdc"
+      ],
+      "size_info": "600x400"
+    },
+    "files": [
+      "logos/terradat_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8b384b",
+      "dominant_colors": [
+        "#040404",
+        "#243c7c",
+        "#c4dc4c"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/pkf_com_tr.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ec9ea9",
+      "dominant_colors": [
+        "#fcc4dc",
+        "#fcbcd4",
+        "#fcbcdc"
+      ],
+      "size_info": "564x846"
+    },
+    "files": [
+      "logos/designmehair_cz.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c9c69e",
+      "dominant_colors": [
+        "#ccd4ac",
+        "#f4f4fc",
+        "#f4fcfc"
+      ],
+      "size_info": "1920x1278"
+    },
+    "files": [
+      "logos/vivaconagua_at.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#e18fd1",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#fc6414",
+        "#fc641c"
+      ],
+      "size_info": "32x30"
+    },
+    "files": [
+      "logos/gulfoilltd_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#080c2b",
+      "dominant_colors": [
+        "#04040c",
+        "#040414",
+        "#040404"
+      ],
+      "size_info": "1080x1080"
+    },
+    "files": [
+      "logos/mtn_cg.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#596378",
+      "dominant_colors": [
+        "#9cacc4",
+        "#a4b4c4",
+        "#94a4bc"
+      ],
+      "size_info": "2000x648"
+    },
+    "files": [
+      "logos/dysartsservicecenter_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7fbdb7",
+      "dominant_colors": [
+        "#9cbcdc",
+        "#94b4dc",
+        "#a4c4e4"
+      ],
+      "size_info": "715x380"
+    },
+    "files": [
+      "logos/deheus_com_vn.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#556d7d",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#5c748c",
+        "#647c94"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/jscosccha_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#545645",
+      "dominant_colors": [
+        "#3c3c3c",
+        "#444444",
+        "#343434"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/sackit_no.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#92733e",
+      "dominant_colors": [
+        "#fcacec",
+        "#fca4e4",
+        "#fcb4ec"
+      ],
+      "size_info": "2880x2160"
+    },
+    "files": [
+      "logos/compo-group_com.jpg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b19484",
+      "dominant_colors": [
+        "#f4f4ec",
+        "#f4f4f4",
+        "#ececec"
+      ],
+      "size_info": "1920x800"
+    },
+    "files": [
+      "logos/bbraun-vetcare_nl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#133839",
+      "dominant_colors": [
+        "#04141c",
+        "#fcfcfc",
+        "#0c141c"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/kia_com_ni.jpeg",
+      "logos/kia_co_mz.jpeg",
+      "logos/kia_com_co.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6e81be",
+      "dominant_colors": [
+        "#2c4c94",
+        "#fcfcfc",
+        "#6c84b4"
+      ],
+      "size_info": "35x35"
+    },
+    "files": [
+      "logos/cdlcuritiba_org_br.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#0b2852",
+      "dominant_colors": [
+        "#04143c",
+        "#040c24",
+        "#041c34"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/rsmuk_com.jpeg",
+      "logos/kuraray_us_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6897c5",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#1454a4",
+        "#0c54a4"
+      ],
+      "size_info": "196x139"
+    },
+    "files": [
+      "logos/tts-group_at.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#357a7f",
+      "dominant_colors": [
+        "#0c1414",
+        "#040c0c",
+        "#0c1c1c"
+      ],
+      "size_info": "1024x512"
+    },
+    "files": [
+      "logos/howdenagents_gr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4d987f",
+      "dominant_colors": [
+        "#44bca4",
+        "#040404",
+        "#fcfcfc"
+      ],
+      "size_info": "200x200"
+    },
+    "files": [
+      "logos/vispiron_systems.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#858c73",
+      "dominant_colors": [
+        "#8c8474",
+        "#141414",
+        "#8c847c"
+      ],
+      "size_info": "1600x500"
+    },
+    "files": [
+      "logos/hennessyfunds_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#687780",
+      "dominant_colors": [
+        "#7c8c94",
+        "#040404",
+        "#f4f4f4"
+      ],
+      "size_info": "1421x500"
+    },
+    "files": [
+      "logos/overheaddoorbrookfield_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#847071",
+      "dominant_colors": [
+        "#040404",
+        "#0c0c0c",
+        "#c4cccc"
+      ],
+      "size_info": "1600x805"
+    },
+    "files": [
+      "logos/carglass_si.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#809ca3",
+      "dominant_colors": [
+        "#242424",
+        "#242c2c",
+        "#1c2424"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/pilotpen_com_au.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#54617c",
+      "dominant_colors": [
+        "#2c343c",
+        "#64646c",
+        "#fcfcfc"
+      ],
+      "size_info": "838x440"
+    },
+    "files": [
+      "logos/einhell_com_ar.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#1a2b65",
+      "dominant_colors": [
+        "#041c74",
+        "#0c1c3c",
+        "#142444"
+      ],
+      "size_info": "1200x650"
+    },
+    "files": [
+      "logos/greatplacetowork_pl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#85b0c3",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#e4ecf4",
+        "#fcfcf4"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/linde-gas_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#778197",
+      "dominant_colors": [
+        "#848484",
+        "#8c8c8c",
+        "#7c7c84"
+      ],
+      "size_info": "1134x447"
+    },
+    "files": [
+      "logos/mercyships_dk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#713e65",
+      "dominant_colors": [
+        "#2c4c7c",
+        "#345c8c",
+        "#345484"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/repsolresourcesuk_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#554f46",
+      "dominant_colors": [
+        "#4c4c4c",
+        "#1c1c1c",
+        "#fcfcfc"
+      ],
+      "size_info": "981x500"
+    },
+    "files": [
+      "logos/kiacoldlake_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6f888a",
+      "dominant_colors": [
+        "#040404",
+        "#e4e4e4",
+        "#ececec"
+      ],
+      "size_info": "500x402"
+    },
+    "files": [
+      "logos/modern-heads_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7f716b",
+      "dominant_colors": [
+        "#847c74",
+        "#8c8484",
+        "#847c7c"
+      ],
+      "size_info": "969x544"
+    },
+    "files": [
+      "logos/daikin_rs.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ae938b",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#fcfcf4",
+        "#f46424"
+      ],
+      "size_info": "1600x650"
+    },
+    "files": [
+      "logos/budget_rs.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b5809c",
+      "dominant_colors": [
+        "#d4ccdc",
+        "#d4c4d4",
+        "#ccc4cc"
+      ],
+      "size_info": "367x357"
+    },
+    "files": [
+      "logos/pkffinconta_ro.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#bf8789",
+      "dominant_colors": [
+        "#e4e4e4",
+        "#dcdcdc",
+        "#8c1c24"
+      ],
+      "size_info": "565x493"
+    },
+    "files": [
+      "logos/indianmotorcycle_com_ar.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8f8470",
+      "dominant_colors": [
+        "#acac9c",
+        "#8c8474",
+        "#b4b4a4"
+      ],
+      "size_info": "683x1024"
+    },
+    "files": [
+      "logos/luxaflexproject-scandinavia_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b1b890",
+      "dominant_colors": [
+        "#e4ece4",
+        "#b4e4fc",
+        "#c4bcac"
+      ],
+      "size_info": "1200x798"
+    },
+    "files": [
+      "logos/saint-gobain-glass_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#91694a",
+      "dominant_colors": [
+        "#040404",
+        "#0c0404",
+        "#fcac5c"
+      ],
+      "size_info": "300x282"
+    },
+    "files": [
+      "logos/sprachschule-aktiv-basel_ch.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#948964",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#5c8c2c",
+        "#84c444"
+      ],
+      "size_info": "1920x960"
+    },
+    "files": [
+      "logos/keasyfit_it.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#849fc2",
+      "dominant_colors": [
+        "#ccdcf4",
+        "#6c94cc",
+        "#8cacdc"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/modshair_co_nz.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#625177",
+      "dominant_colors": [
+        "#040404",
+        "#d4d4d4",
+        "#0c0c14"
+      ],
+      "size_info": "1024x683"
+    },
+    "files": [
+      "logos/amnesty_eu.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#618677",
+      "dominant_colors": [
+        "#041414",
+        "#4c8cac",
+        "#041c1c"
+      ],
+      "size_info": "1920x1280"
+    },
+    "files": [
+      "logos/pkfcabrera_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#59939f",
+      "dominant_colors": [
+        "#44744c",
+        "#4c64ac",
+        "#4c64b4"
+      ],
+      "size_info": "30x30"
+    },
+    "files": [
+      "logos/aireonepeel_ca.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8ad2a5",
+      "dominant_colors": [
+        "#dcecf4",
+        "#fcb404",
+        "#e4f4f4"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/lindeoilandgas_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#319070",
+      "dominant_colors": [
+        "#44744c",
+        "#048cbc",
+        "#0484b4"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/cbrain_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#505d69",
+      "dominant_colors": [
+        "#bcac94",
+        "#2c2c2c",
+        "#3c2c24"
+      ],
+      "size_info": "730x546"
+    },
+    "files": [
+      "logos/renault-tortosa_es.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6e7594",
+      "dominant_colors": [
+        "#7c94b4",
+        "#849cbc",
+        "#6c8cb4"
+      ],
+      "size_info": "2400x1260"
+    },
+    "files": [
+      "logos/crocs_co_nz.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7f6d5f",
+      "dominant_colors": [
+        "#dce4ec",
+        "#d4e4ec",
+        "#1c241c"
+      ],
+      "size_info": "1894x552"
+    },
+    "files": [
+      "logos/nutricia_nl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#657986",
+      "dominant_colors": [
+        "#ecf4fc",
+        "#ecf4f4",
+        "#fcfcfc"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/veka_fr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#202d7d",
+      "dominant_colors": [
+        "#040464",
+        "#3c448c",
+        "#444c8c"
+      ],
+      "size_info": "1500x1000"
+    },
+    "files": [
+      "logos/globalconnectcarrier_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#866053",
+      "dominant_colors": [
+        "#141414",
+        "#0c0c0c",
+        "#1c1c1c"
+      ],
+      "size_info": "1024x388"
+    },
+    "files": [
+      "logos/julis-mfr_de.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#634a34",
+      "dominant_colors": [
+        "#0c0c0c",
+        "#0c140c",
+        "#14140c"
+      ],
+      "size_info": "886x1024"
+    },
+    "files": [
+      "logos/mantruckmerchandise_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#776866",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#0c0c0c",
+        "#140c0c"
+      ],
+      "size_info": "959x621"
+    },
+    "files": [
+      "logos/msd-animal-health_dk.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6190af",
+      "dominant_colors": [
+        "#4484bc",
+        "#3c7cb4",
+        "#4c8cc4"
+      ],
+      "size_info": "2560x915"
+    },
+    "files": [
+      "logos/servier_pt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7f7468",
+      "dominant_colors": [
+        "#2c2c2c",
+        "#242424",
+        "#1c1c1c"
+      ],
+      "size_info": "1472x565"
+    },
+    "files": [
+      "logos/hertz_am.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#627092",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#242c3c",
+        "#546c84"
+      ],
+      "size_info": "742x380"
+    },
+    "files": [
+      "logos/manpowergroup_ca.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#876845",
+      "dominant_colors": [
+        "#14140c",
+        "#1c140c",
+        "#241c14"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/linde-finance_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#768189",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#2c2c34",
+        "#24242c"
+      ],
+      "size_info": "2164x2160"
+    },
+    "files": [
+      "logos/svntrinity_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b09483",
+      "dominant_colors": [
+        "#f4ece4",
+        "#ecd4c4",
+        "#e4d4c4"
+      ],
+      "size_info": "800x309"
+    },
+    "files": [
+      "logos/cazenovecapital_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7e8355",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#a4c4d4",
+        "#94bccc"
+      ],
+      "size_info": "1280x720"
+    },
+    "files": [
+      "logos/subaru_lu.jpg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8b7375",
+      "dominant_colors": [
+        "#f4f4f4",
+        "#141414",
+        "#0c0c0c"
+      ],
+      "size_info": "218x215"
+    },
+    "files": [
+      "logos/servier_co_za.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#94392c",
+      "dominant_colors": [
+        "#8c1c14",
+        "#841c14",
+        "#941c14"
+      ],
+      "size_info": "525x273"
+    },
+    "files": [
+      "logos/adeccojapanese_asia.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#1d575b",
+      "dominant_colors": [
+        "#040c14",
+        "#041414",
+        "#144454"
+      ],
+      "size_info": "1500x1347"
+    },
+    "files": [
+      "logos/nordicpharma_pt.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#46462d",
+      "dominant_colors": [
+        "#040404",
+        "#0c0c04",
+        "#14140c"
+      ],
+      "size_info": "1903x434"
+    },
+    "files": [
+      "logos/nutricia_be.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5b7968",
+      "dominant_colors": [
+        "#7c8484",
+        "#849494",
+        "#848c8c"
+      ],
+      "size_info": "1360x680"
+    },
+    "files": [
+      "logos/athora_nl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#2e4d44",
+      "dominant_colors": [
+        "#44744c",
+        "#141c24",
+        "#446c4c"
+      ],
+      "size_info": "1021x232"
+    },
+    "files": [
+      "logos/crocs_ch.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#83826b",
+      "dominant_colors": [
+        "#b4b4b4",
+        "#bcbcbc",
+        "#acacac"
+      ],
+      "size_info": "2560x1709"
+    },
+    "files": [
+      "logos/pkf_jo.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#576d98",
+      "dominant_colors": [
+        "#245c9c",
+        "#347cb4",
+        "#245494"
+      ],
+      "size_info": "1080x1080"
+    },
+    "files": [
+      "logos/ymcatoledo_org.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#706a54",
+      "dominant_colors": [
+        "#14140c",
+        "#140c0c",
+        "#141414"
+      ],
+      "size_info": "602x390"
+    },
+    "files": [
+      "logos/msd-animal-health_pl.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#be86c0",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#2c3c7c",
+        "#243474"
+      ],
+      "size_info": "1000x1000"
+    },
+    "files": [
+      "logos/chicco_com_ua.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#fcb5ad",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#f4fcfc",
+        "#fcfcf4"
+      ],
+      "size_info": "48x48"
+    },
+    "files": [
+      "logos/avia-ramonville_fr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#94a9a8",
+      "dominant_colors": [
+        "#8c9c9c",
+        "#8c9ca4",
+        "#9cacac"
+      ],
+      "size_info": "1200x627"
+    },
+    "files": [
+      "logos/intersport_be.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#89b8a8",
+      "dominant_colors": [
+        "#74acc4",
+        "#74a4c4",
+        "#6c9cbc"
+      ],
+      "size_info": "1200x628"
+    },
+    "files": [
+      "logos/algeco_be.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#61543e",
+      "dominant_colors": [
+        "#040404",
+        "#94cc3c",
+        "#1c8494"
+      ],
+      "size_info": "150x150"
+    },
+    "files": [
+      "logos/kiwiqa_com_au.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#679767",
+      "dominant_colors": [
+        "#849cac",
+        "#7c94a4",
+        "#8c9cac"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/specialolympics_com_au.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c3b098",
+      "dominant_colors": [
+        "#f4f4f4",
+        "#ececec",
+        "#e4ecec"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/carlsjr_fr.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7c8491",
+      "dominant_colors": [
+        "#1c1c24",
+        "#1c1c1c",
+        "#dce4ec"
+      ],
+      "size_info": "800x900"
+    },
+    "files": [
+      "logos/bakertilly_cl.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#160e0b",
+      "dominant_colors": [
+        "#140c0c",
+        "#040404",
+        "#fcfcfc"
+      ],
+      "size_info": "1350x846"
+    },
+    "files": [
+      "logos/hyrox_es.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#40315d",
+      "dominant_colors": [
+        "#040404",
+        "#143c84",
+        "#1c3c84"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/cdlvitoria_com_br.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#502c0c",
+      "dominant_colors": [
+        "#040404",
+        "#0c0404",
+        "#140c04"
+      ],
+      "size_info": "1200x750"
+    },
+    "files": [
+      "logos/jungheinrich_co.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#585a8c",
+      "dominant_colors": [
+        "#4c6ca4",
+        "#4464a4",
+        "#4c6cac"
+      ],
+      "size_info": "1536x802"
+    },
+    "files": [
+      "logos/servier_com_br.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a0b089",
+      "dominant_colors": [
+        "#fcfcdc",
+        "#fcf4cc",
+        "#fcfcd4"
+      ],
+      "size_info": "1200x627"
+    },
+    "files": [
+      "logos/grantthornton_com_ve.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#6e6148",
+      "dominant_colors": [
+        "#2c2c2c",
+        "#242424",
+        "#1c1c0c"
+      ],
+      "size_info": "2880x1920"
+    },
+    "files": [
+      "logos/nutricia_co_uk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#64733c",
+      "dominant_colors": [
+        "#040c04",
+        "#041404",
+        "#fcf4f4"
+      ],
+      "size_info": "1080x583"
+    },
+    "files": [
+      "logos/santanderconsumer_fi.jpeg",
+      "logos/santanderconsumer_no.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#395b8f",
+      "dominant_colors": [
+        "#04243c",
+        "#4c5c94",
+        "#54649c"
+      ],
+      "size_info": "1920x1080"
+    },
+    "files": [
+      "logos/softland_com_mx.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#414434",
+      "dominant_colors": [
+        "#0c1414",
+        "#2c2c2c",
+        "#1c2424"
+      ],
+      "size_info": "2560x853"
+    },
+    "files": [
+      "logos/bakertilly-ca_com.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#c55a7d",
+      "dominant_colors": [
+        "#a41474",
+        "#fcfcfc",
+        "#9c1474"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/africell_ao.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#715149",
+      "dominant_colors": [
+        "#54341c",
+        "#040404",
+        "#fcfcfc"
+      ],
+      "size_info": "50x50"
+    },
+    "files": [
+      "logos/cinnabon-egypt_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8cb3ac",
+      "dominant_colors": [
+        "#f4fcfc",
+        "#e4e4ec",
+        "#041424"
+      ],
+      "size_info": "1280x852"
+    },
+    "files": [
+      "logos/daikinlebanon_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#78506d",
+      "dominant_colors": [
+        "#040404",
+        "#140c14",
+        "#9c94b4"
+      ],
+      "size_info": "4000x2667"
+    },
+    "files": [
+      "logos/bakertilly_ma.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4f5767",
+      "dominant_colors": [
+        "#f4f4f4",
+        "#040404",
+        "#0c0c14"
+      ],
+      "size_info": "1200x675"
+    },
+    "files": [
+      "logos/hyundaigatineau_ca.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d79c43",
+      "dominant_colors": [
+        "#040404",
+        "#fc940c",
+        "#fc8c04"
+      ],
+      "size_info": "16x16"
+    },
+    "files": [
+      "logos/duracleancarpet_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8e9e61",
+      "dominant_colors": [
+        "#fcfcfc",
+        "#f4f4f4",
+        "#ececec"
+      ],
+      "size_info": "1300x520"
+    },
+    "files": [
+      "logos/carglass_dk.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a0c6e3",
+      "dominant_colors": [
+        "#7cb4fc",
+        "#fcfcfc",
+        "#6c94d4"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/melgarcases_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#664c6b",
+      "dominant_colors": [
+        "#040404",
+        "#04040c",
+        "#0c0c0c"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/edenred_com_ar.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8c8c64",
+      "dominant_colors": [
+        "#b4d4f4",
+        "#040404",
+        "#ecf4fc"
+      ],
+      "size_info": "1280x720"
+    },
+    "files": [
+      "logos/daikin-ce_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#3aa461",
+      "dominant_colors": [
+        "#44744c",
+        "#1c4484",
+        "#bcdc64"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/pkfthailand_asia.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#956c6a",
+      "dominant_colors": [
+        "#442424",
+        "#fcfcfc",
+        "#bcacac"
+      ],
+      "size_info": "901x575"
+    },
+    "files": [
+      "logos/heydudeshoes_es.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8e6643",
+      "dominant_colors": [
+        "#141414",
+        "#fcfcfc",
+        "#1c1c14"
+      ],
+      "size_info": "300x157"
+    },
+    "files": [
+      "logos/msd-animal-health_co_nz.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#674a44",
+      "dominant_colors": [
+        "#0c0c14",
+        "#0c0c0c",
+        "#4c3c34"
+      ],
+      "size_info": "6000x4000"
+    },
+    "files": [
+      "logos/amnesty_lu.jpeg"
+    ]
+  }
+]

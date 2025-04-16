@@ -1,0 +1,536 @@
+[
+  {
+    "specs": {
+      "average_color": "#918894",
+      "dominant_colors": [
+        "#33343c",
+        "#fefefe",
+        "#939498"
+      ],
+      "size_info": "292x292"
+    },
+    "files": [
+      "logos/bakertilly_bg.png",
+      "logos/bakertilly_com_cy.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#277cbe",
+      "dominant_colors": [
+        "#116cb8",
+        "#f6f0d0",
+        "#498dc3"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/mondialparebrise_re.jpeg",
+      "logos/cdlcampina_org_br.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#8995ae",
+      "dominant_colors": [
+        "#a8aaa9",
+        "#303676",
+        "#e0e1e1"
+      ],
+      "size_info": "1080x1350"
+    },
+    "files": [
+      "logos/pilotpen_co_uk.jpeg",
+      "logos/pilotpen_ro.jpeg",
+      "logos/pilotpen_hu.jpeg",
+      "logos/pilotpen_it.jpeg",
+      "logos/pilotpen_eu.jpeg"
+    ]
+  },
+
+  {
+    "specs": {
+      "average_color": "#23acb6",
+      "dominant_colors": [
+        "#c5d44d",
+        "#0f668d",
+        "#ce444c"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/pkfve_com.png",
+      "logos/pkfcs_co_nz.png",
+      "logos/pkfmalta_com.png",
+      "logos/pkf-central-america_com.png",
+      "logos/pkf_com_cy.png",
+      "logos/pkfboston_com.png",
+      "logos/pkfgf_co_nz.png",
+      "logos/pkf_pt.png",
+      "logos/pkf_ch.png",
+      "logos/pkfjnd_com.png",
+      "logos/pkfea_com.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#5fb633",
+      "dominant_colors": [
+        "#029b02",
+        "#fbfdfb",
+        "#84ce84"
+      ],
+      "size_info": "57x57"
+    },
+    "files": [
+      "logos/murrelektronik_com_tr.png",
+      "logos/murrelektronik_ch.png",
+      "logos/murrelektronik_sk.png",
+      "logos/murrelektronik_cz.png",
+      "logos/murrelektronik_fr.png",
+      "logos/murrelektronik_it.png",
+      "logos/murrelektronik_hu.png",
+      "logos/murrelektronik_ro.png",
+      "logos/murrelektronik_at.png",
+      "logos/murrelektronik_kr.png",
+      "logos/murrelektronik_fi.png",
+      "logos/murrelektronik_com_cn.png",
+      "logos/murrelektronik_no.png",
+      "logos/murrelektronik_sg.png",
+      "logos/murrelektronik_be.png",
+      "logos/murrelektronik_uk.png",
+      "logos/murrelektronik_in.png",
+      "logos/murrelektronik_se.png",
+      "logos/murrelektronik_pl.png",
+      "logos/murrelektronik_es.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#a29cb2",
+      "dominant_colors": [
+        "#9f938c",
+        "#d5d5d2",
+        "#39363b"
+      ],
+      "size_info": "100x60"
+    },
+    "files": [
+      "logos/bosch-pt_com_my.png",
+      "logos/bosch-pt_com_cn.png",
+      "logos/bosch-pt_co_in.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#484143",
+      "dominant_colors": [
+        "#444041",
+        "#c8c8c9",
+        "#0f0c0d"
+      ],
+      "size_info": "192x192"
+    },
+    "files": [
+      "logos/mazda-autohaus-kaschmieder-waren_de.png",
+      "logos/mazda-autocentrum-engin-holzminden_de.png",
+      "logos/mazda-autohaus-gerhard-figge-waldeck-hoeringhausen_de.png",
+      "logos/mazda-autohaus-henseler-schwedt_de.png",
+      "logos/mazda-autohaus-tietje-holmb-wedel_de.png",
+      "logos/mazda-autohaus-schindlbeck-straubing_de.png",
+      "logos/mazda-autohaus-behrens-magdeburg-ottersleben_de.png",
+      "logos/mazda-autohaus-kilger-regen_de.png",
+      "logos/mazda-autohaus-rottmann-bottrop_de.png",
+      "logos/mazda-autohaus-stoelzel-doehlau_de.png",
+      "logos/mazda-autohaus-buelo-naumburg_de.png",
+      "logos/mazda-autohaus-banaszak-wesel_de.png",
+      "logos/mazda-autohaus-banaszak-kleve_de.png",
+      "logos/mazda-autohaus-ubben-aurich_de.png",
+      "logos/mazda-autohaus-ahb-gotha_de.png",
+      "logos/mazda-autohaus-wagner-dortmund_de.png",
+      "logos/mazda-automobile-maier-cham_de.png",
+      "logos/mazda-autohaus-sturne-rochlitz_de.png",
+      "logos/mazda-autohaus-mueller-plauen_de.png",
+      "logos/mazda-autohaus-bolluck-goslar_de.png",
+      "logos/mazda-autohaus-schneider-sondershausen_de.png",
+      "logos/mazda-autohaus-henn-weilamrhein_de.png",
+      "logos/mazda-autohaus-klein-bietigheim-bissingen_de.png",
+      "logos/mazda-autohaus-thoss-falkenstein_de.png",
+      "logos/mazda-autohaus-wilk-kaczmarek-schwerin_de.png",
+      "logos/mazda-autohaus-suedring-datteln_de.png",
+      "logos/mazda-autohaus-blank-dinkelsbuehl_de.png",
+      "logos/mazda-autohaus-weber-magdeburg_de.png",
+      "logos/mazda-autohaus-ruettiger-wallduern_de.png",
+      "logos/mazda-autohaus-gruendel-doerth_de.png",
+      "logos/mazda-autohaus-hoeffner-clausen_de.png",
+      "logos/mazda-service-koch-ludwigsfelde_de.png",
+      "logos/mazda-autohaus-dohm-horn-bad-meinberg_de.png",
+      "logos/mazda-autohaus-wuttke-gummersbach_de.png",
+      "logos/mazda-autohaus-doerenkaemper-bad-hersfeld_de.png",
+      "logos/mazda-autohaus-witthoeft-bad-oldesloe_de.png",
+      "logos/mazda-autohaus-ehrlich-aschaffenburg_de.png",
+      "logos/mazda-autohaus-lommel-grettstadt_de.png",
+      "logos/mazda-autohaus-fenzl-hauzenberg_de.png",
+      "logos/mazda-autohaus-wedding-engelskirchen-albertsth_de.png",
+      "logos/mazda-service-metz-marne_de.png",
+      "logos/mazda-autohaus-elstner-jena_de.png",
+      "logos/mazda-autohaus-schmidt-grossenhain_de.png",
+      "logos/mazda-autohaus-mork-rockenhausen_de.png",
+      "logos/mazda-autohaus-dorner-riedlingen_de.png",
+      "logos/mazda-autohaus-roessel-birkenau_de.png",
+      "logos/mazda-autohaus-wilhelm-huellhorst_de.png",
+      "logos/mazda-autohaus-berlenbach-bergischgladbach_de.png",
+      "logos/mazda-autohaus-roeser-grossmaischeid_de.png",
+      "logos/mazda-autohaus-haese-erkrath-hochdahl_de.png",
+      "logos/mazda-autohaus-kramer-kirchberg_de.png",
+      "logos/mazda-autohaus-moellenkamp-rheine_de.png",
+      "logos/mazda-autohaus-schmidt-meschede_de.png",
+      "logos/mazda-autohaus-mueller-und-thurnes-tholey_de.png",
+      "logos/mazda-autohaus-richter-forst_de.png",
+      "logos/mazda-autopark-rath-krefeld_de.png",
+      "logos/mazda-autohaus-lackmann-sendenhorst_de.png",
+      "logos/mazda-autohaus-eisele-langenau_de.png",
+      "logos/mazda-automobile-weberpals-sonneberg-hoenbach_de.png",
+      "logos/mazda-autohaus-stiefel-muehlacker_de.png",
+      "logos/mazda-autohaus-heider-dresden_de.png",
+      "logos/mazda-autohaus-fritsche-grossschoenau_de.png",
+      "logos/mazda-autohaus-lohmann-kreuztal_de.png",
+      "logos/mazda-autohaus-hansmann-kassel_de.png",
+      "logos/mazda-autohaus-voigtlaender-meyer-hamburg_de.png",
+      "logos/mazda-autohaus-hansmann-melsungen_de.png",
+      "logos/mazda-autohaus-abs-erlangen_de.png",
+      "logos/mazda-autohaus-flindt-marschacht_de.png",
+      "logos/mazda-autohaus-becker-homburg-bruchhof_de.png",
+      "logos/mazda-autohaus-wassing-ahaus-wuellen_de.png",
+      "logos/mazda-autohaus-hellwig-hoyerswerda_de.png",
+      "logos/mazda-autohaus-kalina-gelsenkirchen_de.png",
+      "logos/mazda-autohaus-boehme-lutherstadt-wittenberg_de.png",
+      "logos/mazda-autohaus-kopke-bendel-marl_de.png",
+      "logos/mazda-autohaus-w-k-kamen_de.png",
+      "logos/mazda-autohaus-huck-buehl_de.png",
+      "logos/mazda-autohaus-hamester-hamburg-bergedorf_de.png",
+      "logos/mazda-autohaus-schwenke-duisburg_de.png",
+      "logos/mazda-autohaus-dittrich-genthin-huettermuehle_de.png",
+      "logos/mazda-autohaus-grasdanner-holzkirchen_de.png",
+      "logos/mazda-autohaus-schindlbeck-schwandorf_de.png",
+      "logos/mazda-autohaus-albstadt-auto-domicil-ebingen_de.png",
+      "logos/mazda-autohaus-hohenfeld-dinslaken_de.png",
+      "logos/mazda-autohaus-ludwig-halle-neustadt_de.png",
+      "logos/mazda-autohaus-born-ludwigslust_de.png",
+      "logos/mazda-autohaus-sturne-grimma_de.png",
+      "logos/mazda-autohaus-goedde-meschede_de.png",
+      "logos/mazda-autohaus-misch-uebach-palenberg_de.png",
+      "logos/mazda-autohaus-tillack-perleberg_de.png",
+      "logos/mazda-autohaus-lehmann-senftenberg_de.png",
+      "logos/mazda-autohaus-bayer-goessweinstein_de.png",
+      "logos/mazda-autohaus-lotspeich-muenchen_de.png",
+      "logos/mazda-autohaus-haeusler-fuerstenfeldbruck_de.png",
+      "logos/mazda-autohaus-brutschin-lenzkirch_de.png",
+      "logos/mazda-autohaus-tabbouch-speyer_de.png",
+      "logos/mazda-autohaus-friedmann-steinfeld_de.png",
+      "logos/mazda-autohaus-schreier-biebergemuend-bieber_de.png",
+      "logos/mazda-autohaus-albers-doerpen_de.png",
+      "logos/mazda-autohaus-baumgart-altensteig_de.png",
+      "logos/mazda-autohaus-weiss-niedernhausen_de.png",
+      "logos/mazda-autohaus-engelbart-delmenhorst_de.png",
+      "logos/mazda-autohaus-gollan-hamm_de.png",
+      "logos/mazda-autohaus-rausch-dresden_de.png",
+      "logos/mazda-autohaus-torp-wilhelmshaven_de.png",
+      "logos/mazda-autohaus-schmidt-oschatz_de.png",
+      "logos/mazda-autohaus-trumpf-wimmelburg_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#4a3364",
+      "dominant_colors": [
+        "#2570a6",
+        "#32262c",
+        "#e0c8bb"
+      ],
+      "size_info": "800x600"
+    },
+    "files": [
+      "logos/komoder_md.jpeg",
+      "logos/komoder_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#57388d",
+      "dominant_colors": [
+        "#6d46ae",
+        "#3e2463",
+        "#d2cee0"
+      ],
+      "size_info": "1200x630"
+    },
+    "files": [
+      "logos/monster_se.jpeg",
+      "logos/monster_at.jpeg",
+      "logos/monster_be.jpeg",
+      "logos/monster_co_uk.jpeg",
+      "logos/monster_ie.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#38263d",
+      "dominant_colors": [
+        "#233b6d",
+        "#000102",
+        "#df2425"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/cleijsenautoschadegoirle_nl.png",
+      "logos/aspenpharma_es.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#ceb88c",
+      "dominant_colors": [
+        "#dfc47a",
+        "#110f0a",
+        "#eae0c0"
+      ],
+      "size_info": "32x32"
+    },
+    "files": [
+      "logos/lindt_com_mx.png",
+      "logos/lindt_co_za.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#47829b",
+      "dominant_colors": [
+        "#135a69",
+        "#fdfdfd",
+        "#85a8b7"
+      ],
+      "size_info": "Varies (2 different sizes)"
+    },
+    "files": [
+      "logos/asendiausa_com.png",
+      "logos/asendia_sg.png",
+      "logos/asendia_es.png",
+      "logos/asendia_de.png",
+      "logos/asendia_dk.png",
+      "logos/asendia_se.png",
+      "logos/steelhousegroup_ee.jpeg",
+      "logos/asendia_co_uk.png",
+      "logos/asendia_at.png",
+      "logos/rutscherlebnis_at.png",
+      "logos/asendia_it.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#619e54",
+      "dominant_colors": [
+        "#515d1b",
+        "#ddf5f4",
+        "#90a885"
+      ],
+      "size_info": "1130x597"
+    },
+    "files": [
+      "logos/advantisengineering_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b0b0d6",
+      "dominant_colors": [
+        "#e9ebf0",
+        "#57464c",
+        "#8c9eb7"
+      ],
+      "size_info": "Varies (6 different sizes)"
+    },
+    "files": [
+      "logos/aeccglobal_my.jpeg",
+      "logos/intersport-arc2000_com.jpeg",
+      "logos/intersport-courchevel1850_com.jpeg",
+      "logos/noiseassessments_org.jpeg",
+      "logos/benefitsystems_hr.png",
+      "logos/intersport-courchevel1550_com.jpeg",
+      "logos/intersport-arvieux_com.jpeg",
+      "logos/enefitvolt_com.jpeg",
+      "logos/matutis_de.webp",
+      "logos/intersport-grandbornand_com.jpeg",
+      "logos/intersport-risoul_com.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#0f4467",
+      "dominant_colors": [
+        "#053356",
+        "#99cfe0",
+        "#915a2b"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/renault-guilers_fr.webp",
+      "logos/sonepar_co.jpeg",
+      "logos/protectourwinters_de.png",
+      "logos/remax_fi.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#255381",
+      "dominant_colors": [
+        "#cbdfe3",
+        "#043862",
+        "#878c77"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/holidayland-wunstorf_de.png",
+      "logos/holidayland-pohlheim_de.png",
+      "logos/dulux_pl.png",
+      "logos/boschtools_com.png",
+      "logos/dulux_com_my.png",
+      "logos/holidayland-dorfen_de.png",
+      "logos/dulux_ie.png",
+      "logos/countryroadsford_net.png",
+      "logos/duluxarabia_com.png",
+      "logos/holidayland-friedrichshafen_de.png",
+      "logos/gs1bg_org.png",
+      "logos/holidayland-roedermark_de.png",
+      "logos/dulux_com_sg.png",
+      "logos/holidayland-reisebuero-stuppert_de.png",
+      "logos/holidayland-sanktwendel_de.png",
+      "logos/holidayland-durmersheim_de.png",
+      "logos/gs1ec_org.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#312030",
+      "dominant_colors": [
+        "#000000",
+        "#1a386b",
+        "#000000"
+      ],
+      "size_info": "300x300"
+    },
+    "files": [
+      "logos/cdvi_se.png",
+      "logos/cdvibenelux_com.png",
+      "logos/cdvi_ca.png",
+      "logos/cdviberica_com.png",
+      "logos/cdvi_fr.png",
+      "logos/cdvi_ch.png",
+      "logos/cdvi_de.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#d32d38",
+      "dominant_colors": [
+        "#53472b",
+        "#f9e2e4",
+        "#d41121"
+      ],
+      "size_info": "Varies (3 different sizes)"
+    },
+    "files": [
+      "logos/einhell_bg.png",
+      "logos/einhell_rs.png",
+      "logos/einhell_ch.png",
+      "logos/einhell_cz.png",
+      "logos/mapfre_com_sv.png",
+      "logos/einhell_dk.png",
+      "logos/adecco_de.jpeg",
+      "logos/einhell_de.png",
+      "logos/mapfre_com_gt.png",
+      "logos/einhell_co_uk.png"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#774949",
+      "dominant_colors": [
+        "#2a1e18",
+        "#7f5e46",
+        "#9c96af"
+      ],
+      "size_info": "1920x753"
+    },
+    "files": [
+      "logos/isuzubarcs_hu.webp",
+      "logos/isuzugyor_hu.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#b6af93",
+      "dominant_colors": [
+        "#d6d3ce",
+        "#9da09a",
+        "#58574d"
+      ],
+      "size_info": "1920x1280"
+    },
+    "files": [
+      "logos/kumon_com_hk.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#805489",
+      "dominant_colors": [
+        "#4a3730",
+        "#a89075",
+        "#5a749f"
+      ],
+      "size_info": "400x235"
+    },
+    "files": [
+      "logos/toyota-s_co_il.jpeg"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#7cb464",
+      "dominant_colors": [
+        "#fefefe",
+        "#0d6e58",
+        "#accec8"
+      ],
+      "size_info": "319x319"
+    },
+    "files": [
+      "logos/adra_pl.webp"
+    ]
+  },
+  {
+    "specs": {
+      "average_color": "#baa8a0",
+      "dominant_colors": [
+        "#ab7f6f",
+        "#2e2622",
+        "#dad3cc"
+      ],
+      "size_info": "Varies (4 different sizes)"
+    },
+    "files": [
+      "logos/modshair-koeln-lindenthal_de.jpeg",
+      "logos/daikin_ch.png",
+      "logos/warmupdeutschland_de.jpeg",
+      "logos/techmatrix-asia_com.png",
+      "logos/modshair-bielefeld_de.jpeg",
+      "logos/modshair-koeln-city_de.jpeg",
+      "logos/modshair-braunschweig_de.jpeg",
+      "logos/modshair-hannover_de.jpeg"
+    ]
+  }
+]

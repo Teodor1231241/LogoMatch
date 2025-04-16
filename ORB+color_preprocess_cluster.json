@@ -1,0 +1,821 @@
+{
+    "metadata": {
+        "algorithm": "AgglomerativeClustering",
+        "parameters": {
+            "linkage_method": "average",
+            "distance_threshold": 0.35,
+            "feature_weights": {
+                "color_histogram": 0.6,
+                "shape_distribution": 0.4
+            },
+            "total_clusters": 47,
+            "total_images": 146
+        }
+    },
+    "clusters": [
+        {
+            "cluster_id": 44,
+            "member_count": 1,
+            "members": [
+                "bakertilly_bg.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 0,
+            "member_count": 97,
+            "members": [
+                "mazdaofpottstown_com.ico",
+                "edenred_es.png",
+                "pmsgen_com.jpeg",
+                "altriusconsulting_com.ico",
+                "mazda-autohaus-kilger-regen_de.png",
+                "aamcoburbank_com.ico",
+                "orange_md.png",
+                "veka_hu.jpeg",
+                "aamcotopekaks_com.ico",
+                "aamcoconwaysc_com.png",
+                "mazda-autohaus-henn-weilamrhein_de.png",
+                "kia-moeller-eisenach_de.jpeg",
+                "aamcotulsa-brokenarrow_com.ico",
+                "mazda_com_ec.png",
+                "msd-animal-health_co_uk.png",
+                "bonprix_nl.png",
+                "aamcosantaclaritaca_com.ico",
+                "medef-corse_com.png",
+                "mtn_ng.png",
+                "aamcohightstownnj_com.ico",
+                "aamcoeverett_com.ico",
+                "aamcoclaymontde_com.ico",
+                "bosch-industry-consulting_com.jpeg",
+                "entergy-louisiana_com.png",
+                "demetercs_eu.png",
+                "mazda-service-koch-ludwigsfelde_de.png",
+                "rationalstock_es.jpeg",
+                "truemoney_com_vn.png",
+                "wuerth_com_hr.png",
+                "foxinaboxzutphen_com.png",
+                "muvpropiedades_com_ar.png",
+                "repsol_in_ua.png",
+                "aamcoantiochca_com.ico",
+                "mazdaofmilford_com.ico",
+                "mazda-autohaus-dorner-riedlingen_de.png",
+                "aamcolakeworth_com.ico",
+                "actemium_com.png",
+                "aamcohialeahfl_com.ico",
+                "ibc-solar_nl.png",
+                "thebodyshop_si.png",
+                "gjw-bb_de.jpeg",
+                "bbraun_ph.jpeg",
+                "kia-ci_com.jpeg",
+                "lindt_com_au.png",
+                "aamco-newbraunfels_com.png",
+                "myron_ca.png",
+                "aamcomissouricitytx_com.ico",
+                "aamcoahwatukee_com.ico",
+                "wwf_es.jpeg",
+                "aamcometuchen_com.ico",
+                "aamcofortworth_com.ico",
+                "aamcowestbroward_com.ico",
+                "techtel_com_sg.png",
+                "aamcospringfieldva_com.ico",
+                "tupperware_co_kr.png",
+                "cfmotoperu_com.png",
+                "aamcosuffolkva_com.ico",
+                "kiaofdaphne_com.ico",
+                "airbnb_ru.jpeg",
+                "vkf-renzel_com_tr.png",
+                "misterwhat_pl.png",
+                "experian_com_my.png",
+                "infiniti-abudhabi_com.png",
+                "kiaofduluth_com.ico",
+                "misterwhat_pt.png",
+                "airbnb_rs.jpeg",
+                "lamborghini-zh_ch.png",
+                "kia-mueller-genthin_de.jpeg",
+                "statkraft_ie.png",
+                "aamcoparkvillemd_com.ico",
+                "infiniti-dubai_com.png",
+                "immunospot_eu.png",
+                "mercyships_be.png",
+                "naturesrewardcoloredcauliflower_com.png",
+                "aamcoeastmesa_com.ico",
+                "mazda-autohaus-sturne-grimma_de.png",
+                "isic_de.jpeg",
+                "engie_cl.png",
+                "mazda-autohaus-tillack-perleberg_de.png",
+                "amway_com_do.png",
+                "roca_co_th.ico",
+                "wwf_ro.jpeg",
+                "citychain_co_th.jpeg",
+                "kia-fischer-muenchberg_de.jpeg",
+                "kia-crimea_ru.jpeg",
+                "medef-seineetmarne_fr.png",
+                "kia-plt_ru.jpeg",
+                "fleishmanhillard_ph.png",
+                "entergy-arkansas_com.png",
+                "subaru-bd_com.jpeg",
+                "toyotacommonwealth_com.png",
+                "mazda112_com.ico",
+                "renaultsanzhispano_es.png",
+                "aamco-omahasouth_com.png",
+                "medef-sarthe_fr.png",
+                "airbnb_cl.jpeg",
+                "msdinsight_no.jpeg"
+            ],
+            "characteristics": {
+                "description": "Group of 97 similar logos (color weight: 60%, shape weight: 40%)",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 42,
+            "member_count": 1,
+            "members": [
+                "einhell_hr.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 30,
+            "member_count": 1,
+            "members": [
+                "freseniuskidneycare_asia.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 34,
+            "member_count": 1,
+            "members": [
+                "aamcooflascruces_com.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 24,
+            "member_count": 1,
+            "members": [
+                "jungheinrich_com_sg.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 2,
+            "member_count": 3,
+            "members": [
+                "murrelektronik_sk.png",
+                "santillana_com_uy.webp",
+                "murrelektronik_hu.png"
+            ],
+            "characteristics": {
+                "description": "Group of 3 similar logos (color weight: 60%, shape weight: 40%)",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 39,
+            "member_count": 1,
+            "members": [
+                "ikea_com_tr.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 43,
+            "member_count": 1,
+            "members": [
+                "rotary-bulgaria_org.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 28,
+            "member_count": 1,
+            "members": [
+                "bbraun_ca.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 26,
+            "member_count": 1,
+            "members": [
+                "bbraun_ae.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 33,
+            "member_count": 1,
+            "members": [
+                "aamcoindependencemo_com.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 23,
+            "member_count": 1,
+            "members": [
+                "yonyou_com_hk.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 41,
+            "member_count": 1,
+            "members": [
+                "whisky_de.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 37,
+            "member_count": 1,
+            "members": [
+                "greatplacetowork_se.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 6,
+            "member_count": 2,
+            "members": [
+                "globalconnectgroup_com.png",
+                "globalconnectcarrier_com.jpeg"
+            ],
+            "characteristics": {
+                "description": "Group of 2 similar logos (color weight: 60%, shape weight: 40%)",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 35,
+            "member_count": 1,
+            "members": [
+                "secureparking_co_id.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 32,
+            "member_count": 1,
+            "members": [
+                "cvjm-hemer_de.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 31,
+            "member_count": 1,
+            "members": [
+                "modshair-bielefeld_de.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 15,
+            "member_count": 1,
+            "members": [
+                "papasaveriospizzeria_com.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 11,
+            "member_count": 1,
+            "members": [
+                "starbucks_co_nz.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 46,
+            "member_count": 1,
+            "members": [
+                "linde-gas_es.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 20,
+            "member_count": 1,
+            "members": [
+                "vbh_be.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 45,
+            "member_count": 1,
+            "members": [
+                "veolia_co_za.ico"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 36,
+            "member_count": 1,
+            "members": [
+                "gwaliasweets_ca.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 27,
+            "member_count": 1,
+            "members": [
+                "dysartsservicecenter_com.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 25,
+            "member_count": 1,
+            "members": [
+                "h2oinnovation_mx.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 12,
+            "member_count": 1,
+            "members": [
+                "intersport-martinique-guadeloupe_fr.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 40,
+            "member_count": 1,
+            "members": [
+                "einhell_com_ar.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 16,
+            "member_count": 1,
+            "members": [
+                "kumon_com_uy.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 21,
+            "member_count": 1,
+            "members": [
+                "electrolux_com_mx.jpg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 38,
+            "member_count": 1,
+            "members": [
+                "asendia_se.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 13,
+            "member_count": 1,
+            "members": [
+                "vamdodoma_ru.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 22,
+            "member_count": 1,
+            "members": [
+                "lindeoilandgas_com.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 7,
+            "member_count": 1,
+            "members": [
+                "servier_co_uk.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 18,
+            "member_count": 1,
+            "members": [
+                "adlatus-nordwestschweiz_ch.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 17,
+            "member_count": 1,
+            "members": [
+                "siebtechnik-tema_com_au.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 8,
+            "member_count": 1,
+            "members": [
+                "nordicpharma_pt.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 29,
+            "member_count": 1,
+            "members": [
+                "toyotaakten_com_tr.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 3,
+            "member_count": 1,
+            "members": [
+                "rutscherlebnis_at.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 10,
+            "member_count": 1,
+            "members": [
+                "kuraray_us_com.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 14,
+            "member_count": 1,
+            "members": [
+                "grantthornton_com_ve.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 19,
+            "member_count": 1,
+            "members": [
+                "cinnabon_pk.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 9,
+            "member_count": 1,
+            "members": [
+                "africell_ao.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 5,
+            "member_count": 1,
+            "members": [
+                "viacon_no.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 4,
+            "member_count": 1,
+            "members": [
+                "heydudeshoes_es.png"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        },
+        {
+            "cluster_id": 1,
+            "member_count": 1,
+            "members": [
+                "ymca-cnw_org.jpeg"
+            ],
+            "characteristics": {
+                "description": "Unique item with no close matches",
+                "average_similarity": "N/A",
+                "unique_features": [
+                    "color",
+                    "shape"
+                ]
+            }
+        }
+    ]
+}
