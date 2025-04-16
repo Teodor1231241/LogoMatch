@@ -46,7 +46,7 @@ Combines color and edge/shape features. <br>
 
 Cons: <br>
 Less accurate for low-contrast or gradient-heavy photos. <br>
-Long processing time - ~2690 photos in 90 min <br>
+Long processing time - ~2690 photos in 4h 20 min <br>
 
 **Usage:** <br>
 1- 2-Python notebooks <br>
